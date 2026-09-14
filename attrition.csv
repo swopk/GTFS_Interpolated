@@ -1,0 +1,10 @@
+stage,n
+representatives_processed,3082
+analysed_usable_bus,1865
+excluded_no_usable_bus,1217
+excluded: insufficient fixed-route bus service,1129
+excluded: no usable service date,45
+excluded: KeyError,16
+excluded: missing required table,16
+excluded: EmptyDataError,6
+excluded: ParserError,5

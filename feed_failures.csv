@@ -1,0 +1,1218 @@
+feed_id,agency,country,fail_reason
+jbda-agematsutown-agematu,上松町,JP,insufficient fixed-route bus service
+jbda-aketetsu-akechirailway,明知鉄道,JP,insufficient fixed-route bus service
+jbda-akicity-GTFS-Akicity_Bus,安芸市,JP,insufficient fixed-route bus service
+jbda-akocity-teijuurou,赤穂市,JP,insufficient fixed-route bus service
+jbda-akocity-yuranosuke,赤穂市,JP,insufficient fixed-route bus service
+jbda-amacity-amashijunkaibasu,あま市,JP,insufficient fixed-route bus service
+jbda-andotown-andocombus,安堵町,JP,insufficient fixed-route bus service
+jbda-aokivillage-aokisoneibus,青木村,JP,insufficient fixed-route bus service
+jbda-arakawacity-sakura,荒川区,JP,insufficient fixed-route bus service
+jbda-aridagawatown-aridagawatownbus,有田川町,JP,insufficient fixed-route bus service
+jbda-asatetu-asakaigantetsudo,阿佐海岸鉄道株式会社,JP,insufficient fixed-route bus service
+jbda-awajicity-awaji-jenova-line-akashi-iwaya,淡路市,JP,insufficient fixed-route bus service
+jbda-busnet-tsu-guruttotsubus,バスネット津,JP,insufficient fixed-route bus service
+jbda-chikugocity-HainuzukaStationAreaLoopBus,筑後市,JP,insufficient fixed-route bus service
+jbda-chikujotown-ChikujoTownCommunityBus,築上町,JP,insufficient fixed-route bus service
+jbda-chitacity-chita-aiaibus,知多市,JP,insufficient fixed-route bus service
+jbda-dazaifucity-DazaifuCityCommunityBus,太宰府市,JP,insufficient fixed-route bus service
+jbda-feel-the-zao-feelthezao,「世界の蔵王」プロジェクト実行委員会,JP,insufficient fixed-route bus service
+jbda-fukauratown-fukaura-town-communitybus,深浦町,JP,insufficient fixed-route bus service
+jbda-fukuoka-kawasakitown-KawasakiTownFureaiBus,川崎町,JP,insufficient fixed-route bus service
+jbda-fukuoka-kogacity-KogaBus,古賀市,JP,insufficient fixed-route bus service
+jbda-fukuokacity-ImajukuMeinohamaLine,福岡市,JP,insufficient fixed-route bus service
+jbda-fukusakitown-junkai-fukuhime-fukusakikasairenkei,福崎町,JP,insufficient fixed-route bus service
+jbda-fukutsucity-minibus,福津市,JP,insufficient fixed-route bus service
+jbda-gan-wu-shiokazeline,岩宇地域公共交通活性化協議会,JP,insufficient fixed-route bus service
+jbda-geiseivillage-GTFS-Geiseivill_Bus,芸西村,JP,insufficient fixed-route bus service
+jbda-gifu-yamagatacity-communitybus,山県市,JP,insufficient fixed-route bus service
+jbda-goshogawaracity-goshogawara-communitybus,五所川原市,JP,insufficient fixed-route bus service
+jbda-hachikanbus-hachimanbus,八幡観光バス,JP,insufficient fixed-route bus service
+jbda-hachinohecity-hachinohe-nango,八戸市,JP,insufficient fixed-route bus service
+jbda-hamabus-iwata_seikatsubus,浜松バス株式会社,JP,insufficient fixed-route bus service
+jbda-hanamakicity-hanamaki,花巻市,JP,insufficient fixed-route bus service
+jbda-hannocity-odekakemuma-haraichiba,飯能市,JP,insufficient fixed-route bus service
+jbda-hannocity-odekakemuma-minamikoma,飯能市,JP,insufficient fixed-route bus service
+jbda-hannocity-odekakemuma-seimei-kaji,飯能市,JP,insufficient fixed-route bus service
+jbda-hashikamitown-hashikamibus,階上町,JP,insufficient fixed-route bus service
+jbda-hayashimatown-hayashimatowncommunitybus,早島町,JP,insufficient fixed-route bus service
+jbda-hekinancity-kurukuru-bus,碧南市,JP,insufficient fixed-route bus service
+jbda-hichisotown-choeibus,七宗町,JP,insufficient fixed-route bus service
+jbda-higashimiyoshitown-higashimiyoshitownbus,東みよし町,JP,insufficient fixed-route bus service
+jbda-higashinecity-HigashineCity,東根市,JP,insufficient fixed-route bus service
+jbda-hiradocity-fureaibus,平戸市,JP,insufficient fixed-route bus service
+jbda-hirakawacity-hirakawa-sharedtaxi,平川市,JP,insufficient fixed-route bus service
+jbda-hirosakicity-kounan-tetsudou,弘前市,JP,insufficient fixed-route bus service
+jbda-ichikawamisatotown-ichikawamisatobus,市川三郷町,JP,insufficient fixed-route bus service
+jbda-ichikawatown-communitybus,市川町,JP,insufficient fixed-route bus service
+jbda-iijimatown-iichanbus,飯島町,JP,insufficient fixed-route bus service
+jbda-iiyamacity-nanohanabus,飯山市,JP,insufficient fixed-route bus service
+jbda-imaricity-imarinbus,伊万里市,JP,insufficient fixed-route bus service
+jbda-inagawatown-fureaibus,猪名川町,JP,insufficient fixed-route bus service
+jbda-inotown-GTFS-Inotown_HongawaArea,いの町,JP,insufficient fixed-route bus service
+jbda-inotown-GTFS-Inotown_Loopbus,いの町,JP,insufficient fixed-route bus service
+jbda-isetetu-iserailway,伊勢鉄道,JP,insufficient fixed-route bus service
+jbda-ishikariwanshinko-on-demandtransit_itsumo,石狩湾新港地域公共交通サービス推進協議会,JP,insufficient fixed-route bus service
+jbda-iwadecity-junkaibus,岩出市,JP,insufficient fixed-route bus service
+jbda-joetsucity-joetsu,上越市,JP,insufficient fixed-route bus service
+jbda-jr-east-morioka-JR-east_tsugaruline,JR東日本盛岡支社,JP,insufficient fixed-route bus service
+jbda-jr-east-morioka-JReast_wandotaxi,JR東日本盛岡支社,JP,insufficient fixed-route bus service
+jbda-jr-shikoku-bus-kochi-GTFS-JRbus_Otochi,ジェイアール四国バス株式会社 高知支店,JP,insufficient fixed-route bus service
+jbda-kagaminotown-kagaminotownbus,鏡野町,JP,insufficient fixed-route bus service
+jbda-kahokutown-KahokuTown,河北町,JP,insufficient fixed-route bus service
+jbda-kaicity-kaicitybus,甲斐市,JP,insufficient fixed-route bus service
+jbda-kaiyotown-kaiyotownbus,海陽町,JP,insufficient fixed-route bus service
+jbda-kakegawacity-kakegawaosuka,掛川市,JP,insufficient fixed-route bus service
+jbda-kamiichitown-kamiichi,上市町,JP,insufficient fixed-route bus service
+jbda-kamikatsutown-kamikatsutownbus,上勝町,JP,insufficient fixed-route bus service
+jbda-kaminoyamacity-KaminoyamaCity,上山市,JP,insufficient fixed-route bus service
+jbda-kamishihorotown-kamishihoro,上士幌町,JP,insufficient fixed-route bus service
+jbda-kandatown-KandaTownCommunityBus,苅田町,JP,insufficient fixed-route bus service
+jbda-kanicity-satsukibus,可児市,JP,insufficient fixed-route bus service
+jbda-kanonjicity-kanonjishi-noriaibus,観音寺市,JP,insufficient fixed-route bus service
+jbda-karuizawatown-junkan-bus,軽井沢町,JP,insufficient fixed-route bus service
+jbda-kasamatsutown-communitybus,笠松町,JP,insufficient fixed-route bus service
+jbda-katoricity-katori-junkan,香取市,JP,insufficient fixed-route bus service
+jbda-katsuragitown-community-bus,かつらぎ町,JP,insufficient fixed-route bus service
+jbda-katsushikacity-sakura,葛飾区,JP,insufficient fixed-route bus service
+jbda-kawagoetown-fureaibus,川越町,JP,insufficient fixed-route bus service
+jbda-khkhokubu-kotsu-GTFS-Hokubutraffic_Localbus,株式会社県交北部交通,JP,insufficient fixed-route bus service
+jbda-kihotown-chominbus,紀宝町,JP,insufficient fixed-route bus service
+jbda-kisosakitown-communitybus,木曽岬町,JP,insufficient fixed-route bus service
+jbda-kisotown-kisotown,木曽町,JP,insufficient fixed-route bus service
+jbda-kisovillage-kisovill,木祖村,JP,insufficient fixed-route bus service
+jbda-kitagawavillage-GTFS-Kitagawavill_Bus,北川村,JP,insufficient fixed-route bus service
+jbda-kitajimatown-kitajimatownfukushibus,北島町,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-higashitani,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-hiraodai,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-koyanose-kusubashi-hoshigaoka,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-okura,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-oma-dobaru,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-tashiro-kawachi,北九州市,JP,insufficient fixed-route bus service
+jbda-kitakyushucity-tsunemi-kitaku,北九州市,JP,insufficient fixed-route bus service
+jbda-kiyosato-kiyosato-picnicbus,NPO法人清里観光振興会,JP,insufficient fixed-route bus service
+jbda-kobecity-kobe-satoyama,神戸市,JP,insufficient fixed-route bus service
+jbda-kochi-kanko-convention-GTFS-KVCA_MY-YUbus,公益財団法人高知県観光コンベンション協会,JP,insufficient fixed-route bus service
+jbda-kochi-suzakicity-GTFS-Susakicity_Bus,須崎市,JP,insufficient fixed-route bus service
+jbda-kochi-tsunotown-GTFS-Tsunotown_Bus,津野町,JP,insufficient fixed-route bus service
+jbda-kochi_pref-GTFS-Kochipref_Ferry,高知県,JP,insufficient fixed-route bus service
+jbda-kochiap-GTFS-KochIAP_AirportShare,高知県航空利用促進協議会,JP,insufficient fixed-route bus service
+jbda-komatsucity-orange,小松市,JP,insufficient fixed-route bus service
+jbda-komonotown-communitybus,菰野町,JP,insufficient fixed-route bus service
+jbda-kosugevillage-kosugesoneibus,小菅村,JP,insufficient fixed-route bus service
+jbda-kozushimavillage-kozushimavillagebus,神津島村,JP,insufficient fixed-route bus service
+jbda-kumamoto-shiden-kumamotoshiden,熊本市交通局,JP,insufficient fixed-route bus service
+jbda-kumamotodentetsu-kumamotodentetsu,熊本電鉄,JP,insufficient fixed-route bus service
+jbda-kumanocity-communitybus,熊野市,JP,insufficient fixed-route bus service
+jbda-kumanocity-shuyubus,熊野市,JP,insufficient fixed-route bus service
+jbda-kunitachicity-kunikko,国立市,JP,insufficient fixed-route bus service
+jbda-kuratetown-KurateTownSmileBusMiyawakaLine,鞍手町,JP,insufficient fixed-route bus service
+jbda-kurobecity-ishida-aimoto,黒部市,JP,insufficient fixed-route bus service
+jbda-kurobecity-shinkansenikujisen,黒部市,JP,insufficient fixed-route bus service
+jbda-kuroishicity-kuroishi,黒石市,JP,insufficient fixed-route bus service
+jbda-kuroiwa-kanko-GTFS-Kuroiwakanko_Localbus,有限会社黒岩観光,JP,insufficient fixed-route bus service
+jbda-kushimoto-bus-kushimotokankoshuyu-wakayama-jp,くしもと観光周遊バス推進協議会（事務局：和歌山県立南紀熊野ジオパークセンター））,JP,insufficient fixed-route bus service
+jbda-mamurogawatown-MamurogawaTown,真室川町,JP,insufficient fixed-route bus service
+jbda-maniwacity-maniwakun,真庭市,JP,insufficient fixed-route bus service
+jbda-manyosen-manyosen,万葉線,JP,insufficient fixed-route bus service
+jbda-masudacity-noriai,益田市,JP,insufficient fixed-route bus service
+jbda-matsudocity-matsudo,松戸市,JP,insufficient fixed-route bus service
+jbda-matsushigetown-matsushigetownbus,松茂町,JP,insufficient fixed-route bus service
+jbda-meikaijo-ship,名鉄海上観光船株式会社,JP,insufficient fixed-route bus service
+jbda-mibutown-mibubu,壬生町,JP,insufficient fixed-route bus service
+jbda-mie-meiwatown-chominbus,明和町,JP,insufficient fixed-route bus service
+jbda-miharavillage-GTFS-Miharavill_Bus,三原村,JP,insufficient fixed-route bus service
+jbda-minamichitatown-communitybus,南知多町,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-Iidacity-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-Matsukawa-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-Nanbu-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-Ooshika-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-achi-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-iida-2,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-seibu-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-takagi-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-takamori-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minamishinshu-Minamishinshu-toyooka-1,南信州地域交通問題協議会（南信州広域連合）,JP,insufficient fixed-route bus service
+jbda-minobutown-furusekikaiiwamasen,身延町,JP,insufficient fixed-route bus service
+jbda-misawacity-misawacity-mebus,三沢市,JP,insufficient fixed-route bus service
+jbda-mitaketown-communitybus,御嵩町,JP,insufficient fixed-route bus service
+jbda-miyamacity-MiyamaCityCommunityBus,みやま市,JP,insufficient fixed-route bus service
+jbda-miyawakacity-MiyawakaMunakataLine,宮若市,JP,insufficient fixed-route bus service
+jbda-mizuhotown-DemandResponsiveTransport,瑞穂町,JP,KeyError
+jbda-mizunamicity-communitybus,瑞浪市,JP,insufficient fixed-route bus service
+jbda-mogamigawakotsu-MOGAMIGAWAKOTSU,最上川交通,JP,insufficient fixed-route bus service
+jbda-moriyamacity-kuruttobus,守山市,JP,insufficient fixed-route bus service
+jbda-motomiyacity-motomiyashibus,本宮市,JP,insufficient fixed-route bus service
+jbda-motosucity-shieibus,本巣市,JP,insufficient fixed-route bus service
+jbda-motoyamatown-GTFS-Motoyamatown_Bus,本山町,JP,insufficient fixed-route bus service
+jbda-munakatacity-MiyawakaMunakataLine,宗像市,JP,insufficient fixed-route bus service
+jbda-munakatacity-MunakataCityJinoshimaFerry,宗像市,JP,insufficient fixed-route bus service
+jbda-murayamacity-MurayamaCity,村山市,JP,insufficient fixed-route bus service
+jbda-murotocity-GTFS-Murotocity_Bus,室戸市,JP,insufficient fixed-route bus service
+jbda-nagahamacity-nishiazaiodekakewagon,長浜市,JP,insufficient fixed-route bus service
+jbda-nagakutecity-communitybus,長久手市,JP,insufficient fixed-route bus service
+jbda-nagano-kawakamivillage-kawakamibus,川上村,JP,insufficient fixed-route bus service
+jbda-nagisotown-communitybus,南木曽町,JP,insufficient fixed-route bus service
+jbda-nagitown-nagibus,奈義町,JP,insufficient fixed-route bus service
+jbda-nakadomaritown-nakadomari-communitybus,中泊町,JP,insufficient fixed-route bus service
+jbda-nakatosatown-GTFS-Nakatosatown_Bus,中土佐町,JP,insufficient fixed-route bus service
+jbda-nakatown-nakatownbus,那賀町,JP,insufficient fixed-route bus service
+jbda-nakatsucity-Yakata,中津市,JP,insufficient fixed-route bus service
+jbda-nakatsugawacity-communitybus,中津川市,JP,insufficient fixed-route bus service
+jbda-nakayamatown-NakayamaTown,中山町,JP,insufficient fixed-route bus service
+jbda-namegatacity-bus-namegata-ibaraki-jp,行方市,JP,insufficient fixed-route bus service
+jbda-namerikawacity-norumycar,滑川市,JP,insufficient fixed-route bus service
+jbda-nanyocity-NanyoCity,南陽市,JP,insufficient fixed-route bus service
+jbda-narutocity-narutocitychiikibus,鳴門市,JP,insufficient fixed-route bus service
+jbda-nasutown-nasutown,那須町,JP,insufficient fixed-route bus service
+jbda-ninomiyatown-Ninomiyatowncommunitybus,二宮町,JP,insufficient fixed-route bus service
+jbda-nirasakicity-shiminbus,韮崎市,JP,insufficient fixed-route bus service
+jbda-nishikawatown-NishikawaTown,西川町,JP,insufficient fixed-route bus service
+jbda-nishinomiyacity-guruttonamaze,西宮市,JP,insufficient fixed-route bus service
+jbda-nishinomiyacity-koyoen,西宮市,JP,insufficient fixed-route bus service
+jbda-nishinomiyacity-najio-ikunokogen,西宮市,JP,insufficient fixed-route bus service
+jbda-nishinomiyacity-sakurayamanami,西宮市,JP,insufficient fixed-route bus service
+jbda-nishiocity-tosen,西尾市,JP,insufficient fixed-route bus service
+jbda-nishiwakicity-loopbus-orihimebus,西脇市,JP,insufficient fixed-route bus service
+jbda-nyuzentown-noranmaicar,入善町,JP,insufficient fixed-route bus service
+jbda-obanazawacity-ObanazawaCity,尾花沢市,JP,insufficient fixed-route bus service
+jbda-odaitown-choeibus,大台町,JP,insufficient fixed-route bus service
+jbda-oetown-Oetown,大江町,JP,insufficient fixed-route bus service
+jbda-ogasawaravillage-o,小笠原村,JP,insufficient fixed-route bus service
+jbda-ohkuravillage-OhkuraVillage,大蔵村,JP,insufficient fixed-route bus service
+jbda-oizumitown-kouikikoukyoubasuaozora,大泉町,JP,insufficient fixed-route bus service
+jbda-okayacity-silkybus,岡谷市,JP,insufficient fixed-route bus service
+jbda-okuwavillage-kuwachan-bus,大桑村,JP,insufficient fixed-route bus service
+jbda-omachicity-omachiraicholiner,大町市,JP,insufficient fixed-route bus service
+jbda-ongatown-OngaTownCommunityBus,遠賀町,JP,insufficient fixed-route bus service
+jbda-otakivillage-otaki-village,王滝村,JP,insufficient fixed-route bus service
+jbda-otamavillage-otamavillage-bus,大玉村,JP,insufficient fixed-route bus service
+jbda-otsukitown-GTFS-Otsukitown_Bus,大月町,JP,insufficient fixed-route bus service
+jbda-owanitown-owanitown-sunekarabus,大鰐町,JP,insufficient fixed-route bus service
+jbda-owariasahicity-communitybus,尾張旭市,JP,insufficient fixed-route bus service
+jbda-oyabecity-oyabecitybus,小矢部市,JP,insufficient fixed-route bus service
+jbda-rittocity-rittoukurichanbus,栗東市,JP,insufficient fixed-route bus service
+jbda-rokkashovillage-rokkasho-sharedtaxi,六ヶ所村,JP,insufficient fixed-route bus service
+jbda-sagaecity-SagaeCity,寒河江市,JP,insufficient fixed-route bus service
+jbda-saitamacity-iwatsukikucommunitybus,さいたま市,JP,insufficient fixed-route bus service
+jbda-sakatacity-SakataCity,酒田市,JP,insufficient fixed-route bus service
+jbda-sakawatown-GTFS-Sakawatown_Bus,佐川町,JP,insufficient fixed-route bus service
+jbda-sakegawavillage-SakegawaVillage,鮭川村,JP,insufficient fixed-route bus service
+jbda-samukawatown-mokusei-go_kuramiomuraroute,寒川町,JP,insufficient fixed-route bus service
+jbda-sanjocity-guruttosan,三条市,JP,insufficient fixed-route bus service
+jbda-sayotown-communitybus,佐用町,JP,insufficient fixed-route bus service
+jbda-seikatsubus-yokkaichi-sbusyokkaichi,生活バス四日市,JP,insufficient fixed-route bus service
+jbda-seisan-kanko-seisankanko_limousine,西讃観光,JP,insufficient fixed-route bus service
+jbda-sekicity-itadorifureaibus,関市,JP,insufficient fixed-route bus service
+jbda-sembokucity-bus-city-semboku,仙北市,JP,insufficient fixed-route bus service
+jbda-shichinohetown-shichinohe_community-bus,七戸町,JP,insufficient fixed-route bus service
+jbda-shiga-hinotown-choueibus,日野町,JP,insufficient fixed-route bus service
+jbda-shimacity-agowanteikisen,志摩市,JP,insufficient fixed-route bus service
+jbda-shimacity-anori,志摩市,JP,insufficient fixed-route bus service
+jbda-shimantocity-GTFS-Shimantocity_Bus,四万十市,JP,insufficient fixed-route bus service
+jbda-shimantocity-GTFS-Shimantocity_Demandbus,四万十市,JP,insufficient fixed-route bus service
+jbda-shingovillage-shingo-mizubashogo,新郷村,JP,insufficient fixed-route bus service
+jbda-shingutown-TownFerryShingu,新宮町,JP,insufficient fixed-route bus service
+jbda-shinjocity-ShinjoCity,新庄市,JP,insufficient fixed-route bus service
+jbda-shinkikanko-limonbus,神姫観光,JP,insufficient fixed-route bus service
+jbda-shinonsentown-yumetsubame,新温泉町,JP,no usable service date
+jbda-shinshirocity-sbus,新城市,JP,insufficient fixed-route bus service
+jbda-shiojiricity-suteppukunn,塩尻市,JP,insufficient fixed-route bus service
+jbda-shiratakatown-ShiratakaTown,白鷹町,JP,insufficient fixed-route bus service
+jbda-shirotori-kotsu-shirotorikotsu,白鳥交通,JP,insufficient fixed-route bus service
+jbda-shisocity-shitanbus,宍粟市,JP,insufficient fixed-route bus service
+jbda-shizuokacity-yui,静岡市,JP,insufficient fixed-route bus service
+jbda-shonaitown-ShonaiTown,庄内町,JP,insufficient fixed-route bus service
+jbda-shootown-shoochofureaibus,勝央町,JP,insufficient fixed-route bus service
+jbda-soedatown-soedamachibus,添田町,JP,insufficient fixed-route bus service
+jbda-sotogahamatown-sotogahama-townbus,外ヶ浜町,JP,insufficient fixed-route bus service
+jbda-sukumocity-GTFS-Sukumocity_Hanabus,宿毛市,JP,insufficient fixed-route bus service
+jbda-sumotocity-communitybus,洲本市,JP,insufficient fixed-route bus service
+jbda-suwacity-karinchanbas,諏訪市,JP,insufficient fixed-route bus service
+jbda-tajimicity-kikyobus,多治見市,JP,insufficient fixed-route bus service
+jbda-takaokacity-koueibus,高岡市,JP,insufficient fixed-route bus service
+jbda-takarazukacity-runrunbus,宝塚市,JP,insufficient fixed-route bus service
+jbda-taketoyotown-communitybus,武豊町,JP,insufficient fixed-route bus service
+jbda-takitown-choeibus,多気町,JP,insufficient fixed-route bus service
+jbda-tambasasayamacity-communitybusheartrun,丹波篠山市,JP,insufficient fixed-route bus service
+jbda-tanabecity-Jumin-Bus,田辺市,JP,insufficient fixed-route bus service
+jbda-tanotown-GTFS-Tanotown_Bus,田野町,JP,insufficient fixed-route bus service
+jbda-tateshinatown-tateshinasmile,立科町,JP,insufficient fixed-route bus service
+jbda-tatsunocity-communitybus,たつの市,JP,insufficient fixed-route bus service
+jbda-tendocity-TendoCity,天童市,JP,insufficient fixed-route bus service
+jbda-tobacity-teikisen,鳥羽市,JP,insufficient fixed-route bus service
+jbda-tochigi-nakagawatown-nakagawamaticommunitybus,那珂川町,JP,insufficient fixed-route bus service
+jbda-tohokutown-tohoku-town-bus,東北町,JP,insufficient fixed-route bus service
+jbda-tohtetsu-tohtetsu_ena,東濃鉄道,JP,insufficient fixed-route bus service
+jbda-tointown-communitybus,東員町,JP,insufficient fixed-route bus service
+jbda-tokicity-communitybus,土岐市,JP,insufficient fixed-route bus service
+jbda-tokushima-minamitown-minabubyoinrenrakubus,美波町,JP,insufficient fixed-route bus service
+jbda-tokushimacity-kamihachimanbus,徳島市,JP,insufficient fixed-route bus service
+jbda-tokushimacity-oujinfureaibus,徳島市,JP,insufficient fixed-route bus service
+jbda-tonamicity-tonamishieibasu,砺波市,JP,insufficient fixed-route bus service
+jbda-tosacity-GTFS-Tosacity_Bus,土佐市,JP,insufficient fixed-route bus service
+jbda-tosashimizucity-GTFS-Tosashimizucity_Bus,土佐清水市,JP,insufficient fixed-route bus service
+jbda-toshinkanko-bus-rosenbus,東信観光バス株式会社,JP,insufficient fixed-route bus service
+jbda-towadacity-towadacity_communitybus,十和田市,JP,insufficient fixed-route bus service
+jbda-toyama-asahitown-asahimachibus,富山県朝日町,JP,insufficient fixed-route bus service
+jbda-toyamacity-fuchucommunitybus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-horikawaminamicommunitybus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-jojocommunitybus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-kurehaikiikibus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-maidohayabus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-mizuhashifureaicommunitybus,富山市,JP,insufficient fixed-route bus service
+jbda-toyamacity-oyamacommunitybus,富山市,JP,insufficient fixed-route bus service
+jbda-toyoakecity-himawaribus,豊明市,JP,insufficient fixed-route bus service
+jbda-toyookacity-inacar,豊岡市,JP,insufficient fixed-route bus service
+jbda-toyookacity-kobus,豊岡市,JP,insufficient fixed-route bus service
+jbda-toyoyamatown-communitybus,豊山町,JP,insufficient fixed-route bus service
+jbda-tozawavillage-tozawavillagebus,戸沢村,JP,insufficient fixed-route bus service
+jbda-tsu-airportline-airportline,津エアポートライン,JP,insufficient fixed-route bus service
+jbda-tsubamecity-tsubame_bus,燕市,JP,insufficient fixed-route bus service
+jbda-tsuchiuracity-tsuchimarubus,土浦市,JP,insufficient fixed-route bus service
+jbda-tsugarucity-tsugarucity_localtransportation,つがる市,JP,insufficient fixed-route bus service
+jbda-tsukubacity-TSUKUBANEGO,つくば市,JP,insufficient fixed-route bus service
+jbda-tsukubacity-TSUKUBUS,つくば市,JP,missing required table
+jbda-tsurugitown-tsurugitownbus,つるぎ町,JP,insufficient fixed-route bus service
+jbda-tsuruokacity-TsuruokaCity,鶴岡市,JP,insufficient fixed-route bus service
+jbda-tsurutatown-tsuruta-townbus,鶴田町,JP,insufficient fixed-route bus service
+jbda-tsuyamacity-bus-tsuyamacity-okayama-jp,津山市,JP,insufficient fixed-route bus service
+jbda-uchinadatown-communitybus,内灘町,JP,insufficient fixed-route bus service
+jbda-uedacity-uedashigaitizyunkanbus,上田市,JP,insufficient fixed-route bus service
+jbda-uozucity-omotenashi,魚津市,JP,insufficient fixed-route bus service
+jbda-wataraitown-choeibus,度会町,JP,insufficient fixed-route bus service
+jbda-yaesetown-yaese-town-bus,八重瀬町,JP,insufficient fixed-route bus service
+jbda-yaitacity-chuuou-junkan,矢板市,JP,insufficient fixed-route bus service
+jbda-yamagata-asahitown-AsahiTown,朝日町,JP,insufficient fixed-route bus service
+jbda-yamagata-kaneyamatown-KaneyamaTown,山形県金山町,JP,insufficient fixed-route bus service
+jbda-yamagata-ogunitown-OguniTown,山形県小国町,JP,insufficient fixed-route bus service
+jbda-yamagatatetsudo-flowerliner,山形鉄道株式会社,JP,insufficient fixed-route bus service
+jbda-yamanashi-nanbutown-nanbucyoueibasu,南部町,JP,insufficient fixed-route bus service
+jbda-yamanobetown-YamanobeTown,山辺町,JP,insufficient fixed-route bus service
+jbda-yamatokoriyamacity-kingyobus,大和郡山市,JP,insufficient fixed-route bus service
+jbda-yamatotakadacity-communitybuskibougou,大和高田市,JP,insufficient fixed-route bus service
+jbda-yanagawacity-YanagawaCityCommunityBus,柳川市,JP,insufficient fixed-route bus service
+jbda-yanaizutown-yanaizutown-bus,柳津町,JP,insufficient fixed-route bus service
+jbda-yanbaru-expressbus-yanbaru-express-bus,合同会社やんばる急行バス,JP,insufficient fixed-route bus service
+jbda-yasucity-onoriyasu,野洲市,JP,insufficient fixed-route bus service
+jbda-yasudatown-GTFS-Yasudatown_Bus,安田町,JP,insufficient fixed-route bus service
+jbda-yokkaichicity-communitybus,四日市市,JP,insufficient fixed-route bus service
+jbda-yokosukacity-hamachanbus,横須賀市,JP,insufficient fixed-route bus service
+jbda-yomogitavillage-yomogita-communitybus,蓬田村,JP,insufficient fixed-route bus service
+jbda-yoshinogawacity-yoshinogawacitybus,吉野川市,JP,insufficient fixed-route bus service
+jbda-yotsukaidocity-yoppii,四街道市,JP,insufficient fixed-route bus service
+jbda-yukicity-junkaibus,結城市,JP,insufficient fixed-route bus service
+mdb-1,Casco Bay Lines,US,insufficient fixed-route bus service
+mdb-100,Anaheim Resort Transportation (ART),US,no usable service date
+mdb-1000,Komunikacja Miejska Przemyśl,PL,no usable service date
+mdb-1002,Komunikacja Miejska - Krosno,PL,no usable service date
+mdb-1003,TRAM Barcelona (Tranvía Metropolitano Barcelona),ES,insufficient fixed-route bus service
+mdb-1004,TRAM Barcelona Besós (Tranvía Metropolitano Barcelona),ES,insufficient fixed-route bus service
+mdb-1016,UABS-Banlieue Sahel,TN,insufficient fixed-route bus service
+mdb-1017,Metro de Málaga,ES,insufficient fixed-route bus service
+mdb-1028,Câmara Municipal de Águeda,PT,insufficient fixed-route bus service
+mdb-1038,Transtejo,PT,insufficient fixed-route bus service
+mdb-104,Corona Cruiser,US,insufficient fixed-route bus service
+mdb-1047,Delcomar,IT,insufficient fixed-route bus service
+mdb-105,Duarte Transit,US,insufficient fixed-route bus service
+mdb-1057,"Municipality of Fukuoka, (福岡市営渡船)",JP,insufficient fixed-route bus service
+mdb-1058,Ferrotramviaria,IT,insufficient fixed-route bus service
+mdb-1068,Toremar Toscana Regionale Marittima,IT,insufficient fixed-route bus service
+mdb-1087,Baca Area Transportation,US,insufficient fixed-route bus service
+mdb-1089,Regional Rail Transport Germany,IT,insufficient fixed-route bus service
+mdb-1102,"Porvoon Museorautatie, Pieksämäen Höyryveturiyhdistys ry",FI,insufficient fixed-route bus service
+mdb-1105,"HM Transport Inc. and Robinsons Malls, Froehlich Tours,RRCG Transport, Lingkod Pinoy Bus Liner, Inc., MetroExpress, Tas Trans",PH,insufficient fixed-route bus service
+mdb-1114,"Finferries, Alandstrafiken, Rosita Oy, JS Ferryway Ltd Oy, Kuljetus-Savolainen Oy, Archipelago Lines Oy, Sundqvist Investments Oy Ab, Pörtö Line, Nordic Coast Line, Yksityinen, HSL, Vitharun, Espoon kaupunki, Suomen saaristokuljetus, Norsöline, JT-Line Oy, A&S Ravintolat, Merisataman lauttaliikenne, NJK Blekholmen, Ferra Oy, City Cruisers, Aava Lines Oy, Helsingin Risteilypalvelut/TMSJ Group Oy",FI,insufficient fixed-route bus service
+mdb-112,People Mover,US,insufficient fixed-route bus service
+mdb-1124,Lampoon Pattana Transport,TH,insufficient fixed-route bus service
+mdb-1125,POS-ELY Joensuu,FI,no usable service date
+mdb-1126,Brightline Trains LLC,US,insufficient fixed-route bus service
+mdb-113,Sage Stage,US,insufficient fixed-route bus service
+mdb-1132,Metlink,NZ,KeyError
+mdb-1139,"DB, SBB, EC, ÖBB, NS, DSB, MAV, CD, PKP, RE, DPN, RZD, SWX, CFL",DE,insufficient fixed-route bus service
+mdb-1141,Dolores County,US,insufficient fixed-route bus service
+mdb-1146,Mar Chiquita SRL,AR,insufficient fixed-route bus service
+mdb-1152,Bürgerbus Leupoldsgrün (Landkreis Hof),DE,insufficient fixed-route bus service
+mdb-1157,Sanford Trolley,US,insufficient fixed-route bus service
+mdb-1160,The JO,US,insufficient fixed-route bus service
+mdb-1162,El Transbordador de Vizcaya,ES,insufficient fixed-route bus service
+mdb-1163,Innisfail,AU,insufficient fixed-route bus service
+mdb-1164,Maleny / Landsborough,AU,insufficient fixed-route bus service
+mdb-117,Siskiyou County,US,insufficient fixed-route bus service
+mdb-1174,wroute,CA,insufficient fixed-route bus service
+mdb-118,Lassen Rural Bus (LRB),US,insufficient fixed-route bus service
+mdb-1182,MRC de Deux-Montagnes,CA,insufficient fixed-route bus service
+mdb-119,Plumas Transit,US,insufficient fixed-route bus service
+mdb-1195,Easy Ride Transportation,US,insufficient fixed-route bus service
+mdb-1199,Société Nationale des Transports Ferroviaires (SNTF Algeria),DZ,insufficient fixed-route bus service
+mdb-12,Avalon Transit,US,insufficient fixed-route bus service
+mdb-1207,Elevated Transit,US,no usable service date
+mdb-1229,Bogor Angkots,ID,insufficient fixed-route bus service
+mdb-1249,Citymapper,GB,no usable service date
+mdb-1254,Astoria Riverfront Trolley,US,insufficient fixed-route bus service
+mdb-1257,Ile dʼYeu,FR,insufficient fixed-route bus service
+mdb-126,Benton Area Transportation,US,insufficient fixed-route bus service
+mdb-1265,Collegamenti marittimi Grandi Navi Veloci,ES,insufficient fixed-route bus service
+mdb-1268,Quadri orari traghetti,FR,insufficient fixed-route bus service
+mdb-127,Caravan Airport Transportation,US,insufficient fixed-route bus service
+mdb-1270,Zarząd Transportu Publicznego w Krakowie (ZTP Kraków),PL,insufficient fixed-route bus service
+mdb-1275,Western Chiang Mai,TH,insufficient fixed-route bus service
+mdb-1276,Miaoli,TW,no usable service date
+mdb-1281,Mornington Railway,AU,insufficient fixed-route bus service
+mdb-1282,Northern Chiang Mai,TH,insufficient fixed-route bus service
+mdb-1284,Shuttle Oregon,US,insufficient fixed-route bus service
+mdb-1288,VINE Transit,US,KeyError
+mdb-129,City 2 City Shuttle,US,insufficient fixed-route bus service
+mdb-1290,PKP Szybka Kolej Miejska (SKM),PL,insufficient fixed-route bus service
+mdb-1293,RIDE Sitka,US,insufficient fixed-route bus service
+mdb-130,Diamond Express,US,insufficient fixed-route bus service
+mdb-1301,Omaezaki Local Voluntary Operation Bus,JP,no usable service date
+mdb-1302,Susonohru,JP,no usable service date
+mdb-1303,Kakegawa Local Voluntary Operation Bus,JP,no usable service date
+mdb-1307,"YL_Yuanlin Passenger Transport (General Manager), YL_臺西客運(公總)",TW,insufficient fixed-route bus service
+mdb-1308,Capital Trailways,US,insufficient fixed-route bus service
+mdb-1309,Massachusetts Ferry Service,US,insufficient fixed-route bus service
+mdb-1310,Chiang Mai University (CMU),TH,insufficient fixed-route bus service
+mdb-1315,"Kwanwiang Transport, LTD.",TH,insufficient fixed-route bus service
+mdb-1319,Trenitalia | Contram Mobilita s.c.p.a. | Trasfer Soc. Cons. a.r.l. | Adriabus spa | Soc. Consortile A.T.M.A. | Start Spa,IT,insufficient fixed-route bus service
+mdb-132,Oregon Express Shuttle,US,insufficient fixed-route bus service
+mdb-1325,WhiteBus,TH,insufficient fixed-route bus service
+mdb-1327,Quail Trail Public Transit,US,insufficient fixed-route bus service
+mdb-1328,Virginia Breeze,US,insufficient fixed-route bus service
+mdb-133,Pacific Crest Bus Lines,US,insufficient fixed-route bus service
+mdb-134,South Lane Wheels,US,no usable service date
+mdb-137,Linn Shuttle,US,insufficient fixed-route bus service
+mdb-139,Central Oregon Breeze,US,insufficient fixed-route bus service
+mdb-140,Eugene to BEND,US,insufficient fixed-route bus service
+mdb-141,Malheur Council on Aging & Community Services,US,insufficient fixed-route bus service
+mdb-153,STAR Transit,US,insufficient fixed-route bus service
+mdb-156,Groome Transportation - Arizona Shuttle,US,insufficient fixed-route bus service
+mdb-158,Cottonwood Area Transit (CAT),US,insufficient fixed-route bus service
+mdb-159,Verde Lynx,US,insufficient fixed-route bus service
+mdb-161,Grand Valley Transit,US,insufficient fixed-route bus service
+mdb-167,Sandia Shuttle,US,insufficient fixed-route bus service
+mdb-168,Groome Transportation - Colorado Springs Shuttle,US,insufficient fixed-route bus service
+mdb-175,Winter Park Transit,US,insufficient fixed-route bus service
+mdb-1784,Towson Loop,US,insufficient fixed-route bus service
+mdb-1806,Miramichi Transit,CA,insufficient fixed-route bus service
+mdb-1812,"Freetown Poda-Poda, Sierra Leone Road Transport Corporation, Tagrin Ferry, Freetown Taxi Cab",SL,insufficient fixed-route bus service
+mdb-1824,METRO İZMİR,TR,insufficient fixed-route bus service
+mdb-1828,IZBAN,TR,insufficient fixed-route bus service
+mdb-1829,TRAM İZMİR,TR,insufficient fixed-route bus service
+mdb-1832,"Železničná spoločnosť Slovensko, a.s.",AT,insufficient fixed-route bus service
+mdb-1856,Railways of the Generalitat of Catalonia (Ferrocarrils de la Generalitat de Catalunya),ES,insufficient fixed-route bus service
+mdb-186,Jonesboro Economical Transportation (JET),US,insufficient fixed-route bus service
+mdb-1860,DeWaterbus,BE,insufficient fixed-route bus service
+mdb-1867,"81 Connection, CityGo, KanConnect",US,insufficient fixed-route bus service
+mdb-1871,Rider Express,CA,insufficient fixed-route bus service
+mdb-1886,Bmob,FR,insufficient fixed-route bus service
+mdb-189,JeffCo Express,US,insufficient fixed-route bus service
+mdb-1899,Les Saisies,FR,no usable service date
+mdb-192,Sioux Area Metro (SAM),US,insufficient fixed-route bus service
+mdb-1936,Go North West,GB,missing required table
+mdb-194,Marshalltown Municipal Transit,US,insufficient fixed-route bus service
+mdb-1960,"Harare Kombis, City Shuttle",ZW,missing required table
+mdb-1965,"Esprit de Mort, Esprit de Vie, Transco, Taxi Jaune",ZA,insufficient fixed-route bus service
+mdb-1970,Shuttler,CH,no usable service date
+mdb-198,Cedar Rapids Transit,US,insufficient fixed-route bus service
+mdb-199,Burlington Urban Service,US,insufficient fixed-route bus service
+mdb-1995,Union Pearson Express (UP Express),CA,insufficient fixed-route bus service
+mdb-2014,BODS UK aggregate feed,GB,ParserError
+mdb-2018,Jūrmalas autobusu satiksme,LV,no usable service date
+mdb-2030,reLAXsan,US,insufficient fixed-route bus service
+mdb-2031,Aquabus Ferries,CA,insufficient fixed-route bus service
+mdb-2034,Direccion General de Transporte Publico de Puerto Vallarta,MX,insufficient fixed-route bus service
+mdb-2035,Metro St. Louis,US,insufficient fixed-route bus service
+mdb-2036,Bean Shuttle,CZ,insufficient fixed-route bus service
+mdb-2037,Brown County Heartland Express,US,insufficient fixed-route bus service
+mdb-2038,The Otter Express,US,insufficient fixed-route bus service
+mdb-2043,Discover Goodwill,US,insufficient fixed-route bus service
+mdb-2044,Envida,US,insufficient fixed-route bus service
+mdb-2045,ECO Transit,US,insufficient fixed-route bus service
+mdb-2046,El Paso Fountain Valley Senior Citizens Program Inc,US,insufficient fixed-route bus service
+mdb-2049,Prowers Area Transit,US,insufficient fixed-route bus service
+mdb-2053,Systemaufgaben Kundeninformation SKI+,CH,insufficient fixed-route bus service
+mdb-2055,Daytrip Shuttle,IT,insufficient fixed-route bus service
+mdb-2056,Daytrip Shuttle,PT,insufficient fixed-route bus service
+mdb-2057,CP - Comboios de Portugal,PT,insufficient fixed-route bus service
+mdb-2059,Morro Bay Transit,US,insufficient fixed-route bus service
+mdb-2077,Socatur,CM,insufficient fixed-route bus service
+mdb-2081,Huntsville Shuttle,US,insufficient fixed-route bus service
+mdb-21,Coos County Area Transit (CCAT),US,insufficient fixed-route bus service
+mdb-2137,Sacramento Regional Transit (SacRT),US,insufficient fixed-route bus service
+mdb-2138,OBB Personenverkehr AG Kundenservice,AT,insufficient fixed-route bus service
+mdb-2151,Daytrip Shuttle,CR,insufficient fixed-route bus service
+mdb-2156,Adams County,US,insufficient fixed-route bus service
+mdb-2157,Bent County Transportation,US,insufficient fixed-route bus service
+mdb-2161,City of Loveland,US,insufficient fixed-route bus service
+mdb-2164,Concord Area Transit,US,insufficient fixed-route bus service
+mdb-2165,Continuum,US,insufficient fixed-route bus service
+mdb-2169,Kiowa County Transit,US,insufficient fixed-route bus service
+mdb-2170,La Junta Transit,US,insufficient fixed-route bus service
+mdb-2171,Lakewood Rides,US,insufficient fixed-route bus service
+mdb-2172,Manteca Transit,US,insufficient fixed-route bus service
+mdb-2173,Mountain Family Center,US,insufficient fixed-route bus service
+mdb-2174,MOVE Stanislaus,US,insufficient fixed-route bus service
+mdb-2175,Omnibus,US,insufficient fixed-route bus service
+mdb-2178,Routt County Council on Aging (RCCOCA) Transportation,US,insufficient fixed-route bus service
+mdb-2179,Roaring Fork Transportation Authority (RFTA),US,insufficient fixed-route bus service
+mdb-2180,San Joaquin Regional Transit District,US,insufficient fixed-route bus service
+mdb-2181,South Central Council of Governments (SCCOG),US,insufficient fixed-route bus service
+mdb-2182,Silver Key Senior Services,US,insufficient fixed-route bus service
+mdb-2184,Southwest Rides,US,insufficient fixed-route bus service
+mdb-2185,Senior Resource Development Agency,US,insufficient fixed-route bus service
+mdb-2186,Stanislaus Regional Transit Authority,US,insufficient fixed-route bus service
+mdb-2187,City of Tracy,US,insufficient fixed-route bus service
+mdb-2188,Upper Arkansas Area Council of Governments,US,insufficient fixed-route bus service
+mdb-2189,City of Milton-Freewater Public Transportation,US,insufficient fixed-route bus service
+mdb-2190,Palo Verde Valley Transit Agency,US,insufficient fixed-route bus service
+mdb-2192,Bloom Bus,US,insufficient fixed-route bus service
+mdb-2193,Wahkiakum Ferry,US,insufficient fixed-route bus service
+mdb-2196,Makah Public Transit,US,insufficient fixed-route bus service
+mdb-2197,Squaxin Island Transit,US,insufficient fixed-route bus service
+mdb-22,Curry Public Transit,US,insufficient fixed-route bus service
+mdb-2202,Spirit Bus,US,insufficient fixed-route bus service
+mdb-2203,South County Transit Link,US,insufficient fixed-route bus service
+mdb-2205,Philomath Connection,US,insufficient fixed-route bus service
+mdb-2210,El Segundo Transportation,US,insufficient fixed-route bus service
+mdb-2211,Areawide Community Transportation System,US,insufficient fixed-route bus service
+mdb-2216,Froggy Transportation,US,insufficient fixed-route bus service
+mdb-2223,DC Streetcar,US,insufficient fixed-route bus service
+mdb-2233,Arvin Transit,US,insufficient fixed-route bus service
+mdb-2234,Camarillo Area Transit,US,insufficient fixed-route bus service
+mdb-2235,San Juan Capistrano Free Weekend Trolley,US,no usable service date
+mdb-2236,Taft Area Transit,US,insufficient fixed-route bus service
+mdb-2238,West Berkeley Shuttle,US,insufficient fixed-route bus service
+mdb-224,Bay Transit,US,insufficient fixed-route bus service
+mdb-2245,North Carolina State University (NCSU),US,no usable service date
+mdb-2247,Baldwin Park Transit,US,insufficient fixed-route bus service
+mdb-2248,Cudahy Area Rapid Transit,US,insufficient fixed-route bus service
+mdb-2249,City of Bell (La Campana),US,insufficient fixed-route bus service
+mdb-2250,La Puente LINK,US,insufficient fixed-route bus service
+mdb-2251,Sierra Madre Gateway Coach,US,insufficient fixed-route bus service
+mdb-2257,Citrus County Transit,US,insufficient fixed-route bus service
+mdb-2275,Auburn Transit,US,insufficient fixed-route bus service
+mdb-2279,Ridgecrest Transit,US,insufficient fixed-route bus service
+mdb-228,Bell Gardens Trolley,US,insufficient fixed-route bus service
+mdb-2281,Detroit People Mover,US,insufficient fixed-route bus service
+mdb-2284,Carlsbad Municipal Transit System,US,insufficient fixed-route bus service
+mdb-2288,Grand Valley Transit,US,insufficient fixed-route bus service
+mdb-229,Benson Area Transit,US,insufficient fixed-route bus service
+mdb-2291,Lake County Senior Center Transportation Program,US,insufficient fixed-route bus service
+mdb-2292,Mountain Metro Transit,US,insufficient fixed-route bus service
+mdb-2293,Transfort,US,insufficient fixed-route bus service
+mdb-2294,Mountain Express,US,insufficient fixed-route bus service
+mdb-2295,Amtrak San Joaquins,US,insufficient fixed-route bus service
+mdb-2297,Amtrak Vermonter,US,insufficient fixed-route bus service
+mdb-2299,Blue Apple Bus Company,US,insufficient fixed-route bus service
+mdb-2301,Central Community Transit,US,insufficient fixed-route bus service
+mdb-2302,Colville Confederated Tribes Transit,US,insufficient fixed-route bus service
+mdb-2305,East by West Ferry,NZ,insufficient fixed-route bus service
+mdb-2306,Outback Express,US,insufficient fixed-route bus service
+mdb-2307,Elwha Transit,US,insufficient fixed-route bus service
+mdb-2310,Guemes Island Ferry,US,insufficient fixed-route bus service
+mdb-2311,Homage: DʼArling Direct,US,insufficient fixed-route bus service
+mdb-2314,Kalispel Tribal Transit (KalTran),US,insufficient fixed-route bus service
+mdb-2315,Thousand Oaks Transit - Kanan Shuttle,US,insufficient fixed-route bus service
+mdb-2318,Lady of the Lake,US,insufficient fixed-route bus service
+mdb-2319,Lummi Island Ferry,US,insufficient fixed-route bus service
+mdb-2320,Lummi Transit,US,insufficient fixed-route bus service
+mdb-2324,Middletown Area Transit,US,insufficient fixed-route bus service
+mdb-2327,Nisqually Transit,US,insufficient fixed-route bus service
+mdb-2328,North Lake Tahoe Express,US,insufficient fixed-route bus service
+mdb-233,Birnie Bus,US,insufficient fixed-route bus service
+mdb-2330,Bustang Outrider,US,insufficient fixed-route bus service
+mdb-2331,Pahto Public Passage,US,insufficient fixed-route bus service
+mdb-2332,Shawnee Mass Transit District,US,insufficient fixed-route bus service
+mdb-2336,MSRTC Transit,IN,insufficient fixed-route bus service
+mdb-2346,Navajo Transit System,US,insufficient fixed-route bus service
+mdb-2357,Metro do Porto,PT,insufficient fixed-route bus service
+mdb-236,Blossom Express,US,insufficient fixed-route bus service
+mdb-2360,Mitteldeutscher Verkehrsverbund GmbH (MDV),DE,missing required table
+mdb-2361,Dana Point Trolley,US,insufficient fixed-route bus service
+mdb-2362,San Clemente Trolley,US,no usable service date
+mdb-2367,METROFOR,BR,insufficient fixed-route bus service
+mdb-2377,Željeznički prevoz Crne Gore,ME,insufficient fixed-route bus service
+mdb-2381,Isparta Özel Halk Otobüsleri,TR,insufficient fixed-route bus service
+mdb-2389,Hullo Ferries,CA,insufficient fixed-route bus service
+mdb-2394,Yosemite Area Regional Transportation System (YARTS),US,insufficient fixed-route bus service
+mdb-2399,ZTM Katowice,PL,no usable service date
+mdb-24,Rhody Express,US,insufficient fixed-route bus service
+mdb-2408,"Metro Transportes do Sul, Metro Sul do Tejo",PT,insufficient fixed-route bus service
+mdb-2411,Loudoun County Transit,US,insufficient fixed-route bus service
+mdb-2417,Maritime Bus,CA,insufficient fixed-route bus service
+mdb-2418,Morrow County Public Transit,US,insufficient fixed-route bus service
+mdb-2419,City of Gadsen,US,insufficient fixed-route bus service
+mdb-2420,Muletown Trolley,US,insufficient fixed-route bus service
+mdb-243,Inter-Island Ferry,US,insufficient fixed-route bus service
+mdb-2431,"Eurostar, Thalys, SNCF, DB ICE, DB Intercity, c2c Service, Chiltern Railways Service, First Great Western Service, Gatwick Express Service, East Coast, Heathrow Express Service, Hull Trains Service, East Midland Trains, Greater Anglia, London Midland, Southern Service, South Eastern Trains Service, South West Trains Service, Virgin Trains Service, Grand Central, Heathrow Connect, Thameslink, Great Northern, UK Rail (from SIDH), First ScotRail Service, GTR, Eurostar",GB,insufficient fixed-route bus service
+mdb-2435,CORTRAN,US,insufficient fixed-route bus service
+mdb-2436,Mountain Empire Transit,US,insufficient fixed-route bus service
+mdb-2443,RADAR,US,insufficient fixed-route bus service
+mdb-245,Washington State Department of Transportation (WSDOT Apple Line),US,insufficient fixed-route bus service
+mdb-2457,Hyderabad Metro Rail Ltd.,IN,insufficient fixed-route bus service
+mdb-2464,BC Transit (Revelstoke),CA,insufficient fixed-route bus service
+mdb-2467,BC Transit (Mount Waddington),CA,insufficient fixed-route bus service
+mdb-2468,BC Transit (Ashcroft-Cache Creek-Clinton Transit System),CA,insufficient fixed-route bus service
+mdb-2469,BC Transit (100 Mile House),CA,insufficient fixed-route bus service
+mdb-2470,BC Transit (Pemberton Valley),CA,insufficient fixed-route bus service
+mdb-2472,BC Transit (Smithers),CA,insufficient fixed-route bus service
+mdb-249,Wahkiakum on the Move,US,insufficient fixed-route bus service
+mdb-251,Woodburn Transit Service (WTS),US,insufficient fixed-route bus service
+mdb-2515,BC Transit (Clearwater),CA,insufficient fixed-route bus service
+mdb-2536,BC Transit (Creston Valley),CA,insufficient fixed-route bus service
+mdb-255,Swan Island Evening Shuttle,US,insufficient fixed-route bus service
+mdb-256,Blue Star Bus,US,no usable service date
+mdb-2575,BC Transit (West Coast),CA,insufficient fixed-route bus service
+mdb-2587,BC Transit (Williams Lake),CA,insufficient fixed-route bus service
+mdb-260,Columbia Area Transit (CAT),US,insufficient fixed-route bus service
+mdb-2602,Moose Jaw Transit,CA,insufficient fixed-route bus service
+mdb-2615,Sark Shipping,GG,insufficient fixed-route bus service
+mdb-262,Skamania County Transit,US,insufficient fixed-route bus service
+mdb-2621,Burns Paiute Tribal Transit,US,insufficient fixed-route bus service
+mdb-2637,Irish Rail,IE,insufficient fixed-route bus service
+mdb-2638,LUAS,IE,insufficient fixed-route bus service
+mdb-2648,Huntington Park Express,US,insufficient fixed-route bus service
+mdb-2650,Gloversville Transit System,US,ParserError
+mdb-2653,Renfe commuter trains (Cercanias),ES,no usable service date
+mdb-2680,Funicular de Artxanda,ES,insufficient fixed-route bus service
+mdb-2684,Altamont Corridor Express,US,insufficient fixed-route bus service
+mdb-27,Airport Valet Express,US,insufficient fixed-route bus service
+mdb-2709,Trinity Transit,US,insufficient fixed-route bus service
+mdb-271,People for People (Community Connector),US,insufficient fixed-route bus service
+mdb-2711,Urban Buses Dos Hermanas,ES,missing required table
+mdb-2712,Samar Buses,ES,KeyError
+mdb-2715,Euskotren,ES,insufficient fixed-route bus service
+mdb-2717,Renfe Feve,ES,no usable service date
+mdb-2722,Ferry Fred. Olsen (Fred Olsen Express),ES,insufficient fixed-route bus service
+mdb-2725,Lurraldebus Oiartzun (Xorrola),ES,insufficient fixed-route bus service
+mdb-2726,Lurraldebus Tolosaldea,ES,insufficient fixed-route bus service
+mdb-2727,AECFA (Spanish Association for the Coordination and Facilitation of Time Strips),ES,no usable service date
+mdb-2729,Tranvía de Murcia (TDM),ES,insufficient fixed-route bus service
+mdb-2734,Lurraldebus - Hernani Urban (Hernani city bus),ES,insufficient fixed-route bus service
+mdb-2737,Oñati urban (Oñatiko herribusa),ES,insufficient fixed-route bus service
+mdb-2758,Tolosa City Council (Urbano de Tolosa),ES,insufficient fixed-route bus service
+mdb-276,Yakima Transit,US,insufficient fixed-route bus service
+mdb-2760,Lurraldebus Lasarte,ES,insufficient fixed-route bus service
+mdb-277,Union Gap,US,insufficient fixed-route bus service
+mdb-2778,Rodil,ES,insufficient fixed-route bus service
+mdb-278,Selah Transit,US,insufficient fixed-route bus service
+mdb-2781,Metro de Sevilla,ES,insufficient fixed-route bus service
+mdb-2784,Public Works Agency of the Andalusian Regional Government (Metro de Grenada),ES,insufficient fixed-route bus service
+mdb-2785,Ouigo,ES,insufficient fixed-route bus service
+mdb-2786,Viagón Coaches,ES,insufficient fixed-route bus service
+mdb-2787,Alvarez Travelers Coaches,ES,insufficient fixed-route bus service
+mdb-2790,Sopela Town Hall,ES,insufficient fixed-route bus service
+mdb-2793,Erandio City Council (Erandio! Busa),ES,insufficient fixed-route bus service
+mdb-2795,Ancebus,ES,insufficient fixed-route bus service
+mdb-2799,Bermibusa,ES,insufficient fixed-route bus service
+mdb-2800,Rafael Nadal Coaches,ES,insufficient fixed-route bus service
+mdb-2804,Avanza Grupo (Ourense city bus),ES,no usable service date
+mdb-2806,Eixbus S.At,ES,insufficient fixed-route bus service
+mdb-2808,La Veloz SA (Buses from the Belchite countryside area to Zaragoza (C12)),ES,insufficient fixed-route bus service
+mdb-2809,Avanza Grupo (VAC-124. Huesca-Lleida with branches),ES,insufficient fixed-route bus service
+mdb-2810,Avanza Grupo (VAC-245. Huesca-Barcelona),ES,insufficient fixed-route bus service
+mdb-2814,Baleària Ferry,ES,insufficient fixed-route bus service
+mdb-2829,FGV - Generalitat Valenciana Trains and trams in Alicante and the Costa Blanca,ES,insufficient fixed-route bus service
+mdb-283,Washington State Ferries,US,insufficient fixed-route bus service
+mdb-2830,FGV - Generalitat Valenciana Metro de Valencia,ES,insufficient fixed-route bus service
+mdb-2840,Connecticut Transit,US,insufficient fixed-route bus service
+mdb-2854,Metra,US,KeyError
+mdb-2856,City of Coolidge,US,insufficient fixed-route bus service
+mdb-2857,Bisbee Bus,US,insufficient fixed-route bus service
+mdb-286,Black Ball Ferry Line,US,insufficient fixed-route bus service
+mdb-2860,Copper Mountain Transit,US,insufficient fixed-route bus service
+mdb-2862,CUE Bus,US,insufficient fixed-route bus service
+mdb-2863,City of Show Low,US,insufficient fixed-route bus service
+mdb-2864,City of Douglas,US,insufficient fixed-route bus service
+mdb-2867,Indian Railways,IN,insufficient fixed-route bus service
+mdb-2875,West Cork Connect,IE,insufficient fixed-route bus service
+mdb-2876,Keep Tahoe Blue,US,insufficient fixed-route bus service
+mdb-2881,Watertown Citibus,US,insufficient fixed-route bus service
+mdb-2883,Mountain View Community Shuttle,US,insufficient fixed-route bus service
+mdb-2886,San Francisco Municipal Transportation Agency (SFMTA - Muni),US,KeyError
+mdb-289,"Wallowa Community Connection (WCC), Northeast Oregon Public Transit",US,insufficient fixed-route bus service
+mdb-2894,Clovis Transit,US,insufficient fixed-route bus service
+mdb-2902,CROSS Solution,DE,insufficient fixed-route bus service
+mdb-2905,Mäntylän Alueen Liikenne,FI,insufficient fixed-route bus service
+mdb-2918,Lasta,RS,insufficient fixed-route bus service
+mdb-2921,Transtejo Soflusa (TTSL),PT,insufficient fixed-route bus service
+mdb-2923,Santa Eulalia Ferry,ES,insufficient fixed-route bus service
+mdb-2926,Autobusos Interurbans,ES,KeyError
+mdb-2927,Srbijavoz,RS,insufficient fixed-route bus service
+mdb-2936,Alexandria DOT,US,insufficient fixed-route bus service
+mdb-2937,Marin Transit,US,KeyError
+mdb-2942,Ariva,SI,insufficient fixed-route bus service
+mdb-2943,TURIZEM KRANJSKA GORA,SI,insufficient fixed-route bus service
+mdb-2944,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",SI,insufficient fixed-route bus service
+mdb-2945,КП Бучатранссервіс,UA,insufficient fixed-route bus service
+mdb-295,Streamline,US,insufficient fixed-route bus service
+mdb-296,Calabasas Transit System,US,insufficient fixed-route bus service
+mdb-299,Catalina Express,US,insufficient fixed-route bus service
+mdb-2991,LTG Link,LT,insufficient fixed-route bus service
+mdb-2994,Collegamenti marittimi Grimaldi,IT,insufficient fixed-route bus service
+mdb-2995,Collegamenti marittimi Sardinia Ferries,IT,insufficient fixed-route bus service
+mdb-2996,Collegamenti marittimi Tirrenia,IT,insufficient fixed-route bus service
+mdb-300,Catalina Flyer,US,insufficient fixed-route bus service
+mdb-302,Corning Erwin Area Transit System (CEATS),US,insufficient fixed-route bus service
+mdb-3035,PATCO Speedline,US,insufficient fixed-route bus service
+mdb-3036,Upper Merion Rambler,US,insufficient fixed-route bus service
+mdb-3039,Hope College Evening Shuttle,US,insufficient fixed-route bus service
+mdb-3041,Trasporto Passeggeri Emilia-Romagna,IT,insufficient fixed-route bus service
+mdb-3043,HŽ Passenger Transport,HR,insufficient fixed-route bus service
+mdb-3044,inbus.ua,UA,insufficient fixed-route bus service
+mdb-3049,ONCF (Office National des Chemins de Fer),MA,insufficient fixed-route bus service
+mdb-3052,Metro Bilbao,ES,insufficient fixed-route bus service
+mdb-306,Chicago Water Taxi,US,no usable service date
+mdb-3081,Reus Transport,ES,insufficient fixed-route bus service
+mdb-309,City of Fountain Transit,US,insufficient fixed-route bus service
+mdb-3094,Glenn Transit Service,US,insufficient fixed-route bus service
+mdb-3095,Bellflower Bus,US,insufficient fixed-route bus service
+mdb-3098,Rosemead Explorer,US,insufficient fixed-route bus service
+mdb-310,Capital Transit,US,insufficient fixed-route bus service
+mdb-3105,Boxcar,US,insufficient fixed-route bus service
+mdb-3107,European Sleeper,CH,insufficient fixed-route bus service
+mdb-3108,Georgian Railway,AM,insufficient fixed-route bus service
+mdb-3114,Rochester Transit Service,US,insufficient fixed-route bus service
+mdb-3122,Koleje Śląskie,PL,insufficient fixed-route bus service
+mdb-3123,Optima Express,AT,insufficient fixed-route bus service
+mdb-3124,Metropolitana di Catania - Ferrovia Circumetnea,IT,KeyError
+mdb-3129,C-TRAN,US,insufficient fixed-route bus service
+mdb-313,Clear Creek County Transit,US,insufficient fixed-route bus service
+mdb-3130,Transportation Management Association of Chester County (TMACC),US,insufficient fixed-route bus service
+mdb-3134,VD-Express,UA,insufficient fixed-route bus service
+mdb-3135,GTFS Honduras Open (National Transit Feed),HN,missing required table
+mdb-3143,San Francisco Bay Area Water Emergency Transportation Authority (WETA),US,insufficient fixed-route bus service
+mdb-3144,Lagos State Waterways,NG,insufficient fixed-route bus service
+mdb-3153,ELRON,EE,insufficient fixed-route bus service
+mdb-3154,DZK,SK,insufficient fixed-route bus service
+mdb-316,CorridorRides,US,insufficient fixed-route bus service
+mdb-317,Cripple Creek Transportation,US,insufficient fixed-route bus service
+mdb-3176,Tokyo Metropolitan Bureau of Transportation - Toei Train,JP,insufficient fixed-route bus service
+mdb-3178,Cecil Transit,US,insufficient fixed-route bus service
+mdb-3179,Consiliul Județean Buzău - Transport județean,RO,insufficient fixed-route bus service
+mdb-3182,Urban Trans Vlora,AL,insufficient fixed-route bus service
+mdb-3184,Kecskeméti Kisvasút,HU,no usable service date
+mdb-3185,"Kumejima Ocean Jet Co., Ltd.",JP,insufficient fixed-route bus service
+mdb-3192,NY Waterway,US,insufficient fixed-route bus service
+mdb-3205,Cape Lookout National Seashore,US,insufficient fixed-route bus service
+mdb-3207,Dry Tortugas National Park,US,insufficient fixed-route bus service
+mdb-3208,Golden Gate National Recreation Area (Alcatraz Island),US,insufficient fixed-route bus service
+mdb-3209,Gulf Islands National Seashore,US,no usable service date
+mdb-3210,Gulf Islands National Seashore,US,insufficient fixed-route bus service
+mdb-3215,DELFI Germany-wide scheduled timetable data (GTFS),DE,ParserError
+mdb-3218,Dallas Host Committee,US,insufficient fixed-route bus service
+mdb-3221,Athens Urban Transport Organization (OASA) - Rail Routes,GR,insufficient fixed-route bus service
+mdb-3222,Sonoma Marin Area Rail Transit (SMART),US,insufficient fixed-route bus service
+mdb-3225,URBS Curitiba,BR,insufficient fixed-route bus service
+mdb-3234,Verkehrsverbund Berlin-Brandenburg (VBB),DE,insufficient fixed-route bus service
+mdb-3258,BT buss,SE,no usable service date
+mdb-3259,Destination Gotland,SE,insufficient fixed-route bus service
+mdb-3260,Falcks Omnibus AB,SE,insufficient fixed-route bus service
+mdb-3262,Härjedalingen,SE,insufficient fixed-route bus service
+mdb-3263,Kiruna Buss,SE,insufficient fixed-route bus service
+mdb-3264,Kombardo Expressen,DK,insufficient fixed-route bus service
+mdb-3265,Lennakatten,SE,insufficient fixed-route bus service
+mdb-3268,Mälartåg ersättningstrafik,SE,insufficient fixed-route bus service
+mdb-3269,Nikkaluoktaexpressen,SE,insufficient fixed-route bus service
+mdb-3270,Norrtåg ersättningsstrafik (VR Sverige),SE,insufficient fixed-route bus service
+mdb-3271,Ressel Rederi,SE,insufficient fixed-route bus service
+mdb-3272,Silverlinjen,SE,insufficient fixed-route bus service
+mdb-3273,SJ,NO,insufficient fixed-route bus service
+mdb-3274,SJ Norge,SE,insufficient fixed-route bus service
+mdb-3275,Sjöstadstrafiken (Stockholm Stad),SE,insufficient fixed-route bus service
+mdb-3277,Snälltåget,SE,insufficient fixed-route bus service
+mdb-3278,Stavsnäs båttaxi,SE,insufficient fixed-route bus service
+mdb-3279,Strömma Turism & Sjöfart AB,SE,insufficient fixed-route bus service
+mdb-3280,TiB ersättningstrafik (VR Sverige),SE,insufficient fixed-route bus service
+mdb-3281,TJF Smalspåret,SE,insufficient fixed-route bus service
+mdb-3282,Trafikverket RDB,SE,insufficient fixed-route bus service
+mdb-3283,Trosabussen,SE,insufficient fixed-route bus service
+mdb-3284,Tågab,SE,insufficient fixed-route bus service
+mdb-3285,Uddevalla Skärgårdsbåtar AB,SE,insufficient fixed-route bus service
+mdb-3286,VR,SE,insufficient fixed-route bus service
+mdb-3289,Vy Norge,NO,insufficient fixed-route bus service
+mdb-329,USF Bull Runner,US,insufficient fixed-route bus service
+mdb-3290,Vy Tåg AB,SE,no usable service date
+mdb-3291,Vy Värmlandstrafik,SE,insufficient fixed-route bus service
+mdb-3292,Västervik Express,SE,insufficient fixed-route bus service
+mdb-3293,Y-Buss,SE,insufficient fixed-route bus service
+mdb-3340,Public Transport Victoria (PTV),AU,missing required table
+mdb-3360,Chennai Transport Corporation,IN,ParserError
+mdb-3384,TS Laevad OÜ,EE,insufficient fixed-route bus service
+mdb-3385,Pasažieru Vilciens,EE,insufficient fixed-route bus service
+mdb-340,Pasco County Public Transportation,US,no usable service date
+mdb-355,Georgia Tech Trolley & Stinger Shuttles,US,insufficient fixed-route bus service
+mdb-356,Atlanta Streetcar,US,insufficient fixed-route bus service
+mdb-357,Atlantic Regional Commission,US,insufficient fixed-route bus service
+mdb-358,Cherokee Area Transportation System (CATS),US,insufficient fixed-route bus service
+mdb-361,Franklin Transit Authority,US,insufficient fixed-route bus service
+mdb-370,Emory University Cliff Shuttles,US,insufficient fixed-route bus service
+mdb-371,Buc Shuttle,US,insufficient fixed-route bus service
+mdb-383,DowneyLINK,US,insufficient fixed-route bus service
+mdb-384,"Indian Trails, Detroit Ann Arbor Express",US,insufficient fixed-route bus service
+mdb-392,Beloit Transit,US,no usable service date
+mdb-40,Simi Valley Transit,US,insufficient fixed-route bus service
+mdb-405,National Park Service,US,insufficient fixed-route bus service
+mdb-419,Vineyard Fast Ferry,US,insufficient fixed-route bus service
+mdb-423,Cuttyhunk Ferry Company,US,insufficient fixed-route bus service
+mdb-424,Patriots Party Boats,US,insufficient fixed-route bus service
+mdb-425,Freedom Cruise Line,US,insufficient fixed-route bus service
+mdb-427,Hy-Line Cruises,US,insufficient fixed-route bus service
+mdb-431,Massachusetts Area Express (MAX),US,missing required table
+mdb-435,Bay State Cruise Company,US,insufficient fixed-route bus service
+mdb-436,Coach Company,US,insufficient fixed-route bus service
+mdb-437,Massachusetts Bay Transportation Authority (MBTA),US,KeyError
+mdb-438,LimoLiner,US,insufficient fixed-route bus service
+mdb-442,Middlesex 3 TMA,US,insufficient fixed-route bus service
+mdb-443,Yankee Line,US,insufficient fixed-route bus service
+mdb-446,Boston Harbor Islands Ferries,US,insufficient fixed-route bus service
+mdb-449,Stagecoach Transportation Services (STS),US,insufficient fixed-route bus service
+mdb-450,Vermont Translines,US,insufficient fixed-route bus service
+mdb-452,Lakes Region Explorer,US,insufficient fixed-route bus service
+mdb-460,Express Arrow,US,insufficient fixed-route bus service
+mdb-462,Gallup Express,US,insufficient fixed-route bus service
+mdb-463,Greensville Emporia Transit,US,insufficient fixed-route bus service
+mdb-490,BWI Thurgood Marshall Airport (BWI) Shuttle,US,insufficient fixed-route bus service
+mdb-492,Queen Anne's County Ride,US,insufficient fixed-route bus service
+mdb-507,Metropolitan Transit Authority (MTA),US,insufficient fixed-route bus service
+mdb-517,Port Authority Trans-Hudson (PATH),US,insufficient fixed-route bus service
+mdb-518,Staten Island Ferry,US,insufficient fixed-route bus service
+mdb-52,Tideline Water Taxi,US,insufficient fixed-route bus service
+mdb-522,JFK Airtrain,US,insufficient fixed-route bus service
+mdb-524,Metro-North Railroad,US,insufficient fixed-route bus service
+mdb-53,Bay Area Rapid Transit (BART),US,KeyError
+mdb-532,Hornell Area Transit,US,insufficient fixed-route bus service
+mdb-536,Chenango First Transit,US,insufficient fixed-route bus service
+mdb-54,Caltrain,US,insufficient fixed-route bus service
+mdb-541,City of Mechanicville Public Transit,US,insufficient fixed-route bus service
+mdb-545,Franklin County Public Transportation,US,insufficient fixed-route bus service
+mdb-546,North Country Express Transit,US,insufficient fixed-route bus service
+mdb-547,Lake Champlain Ferries,US,insufficient fixed-route bus service
+mdb-550,Shore Line East,US,insufficient fixed-route bus service
+mdb-554,Block Island Ferry,US,insufficient fixed-route bus service
+mdb-555,DATTCO Motorcoach,US,insufficient fixed-route bus service
+mdb-556,Plymouth & Brockton Street Railway Co,US,insufficient fixed-route bus service
+mdb-560,Klamath Shuttle,US,insufficient fixed-route bus service
+mdb-565,City of Las Vegas,US,insufficient fixed-route bus service
+mdb-567,L.E.W.I.S. Mountain Highway Transit,US,insufficient fixed-route bus service
+mdb-568,Lower Columbia CAP (Community Action Program),US,no usable service date
+mdb-57,Santa Clara Valley Transportation Authority (VTA),US,KeyError
+mdb-572,Madera County Transit,US,insufficient fixed-route bus service
+mdb-573,Madison County Transit,US,insufficient fixed-route bus service
+mdb-578,Moorpark City Transit,US,insufficient fixed-route bus service
+mdb-58,San Benito County Express (SBCE),US,insufficient fixed-route bus service
+mdb-580,Mount Adams Transportation Service,US,insufficient fixed-route bus service
+mdb-583,Needles Area Transit,US,insufficient fixed-route bus service
+mdb-584,Newburgh Beacon Shuttle (Leprechaun Lines),US,insufficient fixed-route bus service
+mdb-585,South Shore Line,US,insufficient fixed-route bus service
+mdb-586,Olean Area Transit System,US,insufficient fixed-route bus service
+mdb-589,Otsego Express Public Transportation,US,insufficient fixed-route bus service
+mdb-590,Let'er Bus,US,insufficient fixed-route bus service
+mdb-595,"Alcatraz Cruises - Hornblower, Angel Island Tiburon Ferry, Blue & Gold Fleet",US,insufficient fixed-route bus service
+mdb-6,Subterráneos de Buenos Aires (SUBTE),AR,missing required table
+mdb-605,Canby Ferry,US,insufficient fixed-route bus service
+mdb-606,Get Around Town Express,US,insufficient fixed-route bus service
+mdb-607,Home James,US,insufficient fixed-route bus service
+mdb-608,WinTran,US,insufficient fixed-route bus service
+mdb-610,GoWal,US,insufficient fixed-route bus service
+mdb-611,Graham Transit,US,insufficient fixed-route bus service
+mdb-613,Greene County Transit,US,insufficient fixed-route bus service
+mdb-614,Groome Transportation (Greenride),US,insufficient fixed-route bus service
+mdb-617,Guadalupe Flyer,US,no usable service date
+mdb-618,Harbor Connector,US,insufficient fixed-route bus service
+mdb-620,Valparaiso Transit,US,insufficient fixed-route bus service
+mdb-626,Florida Department of Transportation (SunRail),US,insufficient fixed-route bus service
+mdb-632,Eastern Point,US,insufficient fixed-route bus service
+mdb-633,Valley Retriever Busline,US,insufficient fixed-route bus service
+mdb-634,Eugene to Coos Bay,US,insufficient fixed-route bus service
+mdb-635,HUT Airport Shuttle,US,insufficient fixed-route bus service
+mdb-636,High Desert Point,US,insufficient fixed-route bus service
+mdb-637,SouthWest POINT,US,insufficient fixed-route bus service
+mdb-638,NorthWest POINT,US,insufficient fixed-route bus service
+mdb-639,Cascade POINT,US,insufficient fixed-route bus service
+mdb-647,Trenes Argentinos,AR,insufficient fixed-route bus service
+mdb-649,Port Phillip Ferries,AU,insufficient fixed-route bus service
+mdb-65,eTrans,US,insufficient fixed-route bus service
+mdb-654,Haidleys Panoramic Coaches,AU,insufficient fixed-route bus service
+mdb-66,Sonoma County Airport Express,US,insufficient fixed-route bus service
+mdb-666,Byron Easybus,AU,insufficient fixed-route bus service
+mdb-669,Christensens Bus and Coach,AU,insufficient fixed-route bus service
+mdb-67,Golden Gate Transit,US,KeyError
+mdb-670,Glass House Country Coaches,AU,insufficient fixed-route bus service
+mdb-673,TransLink Innisfail,AU,insufficient fixed-route bus service
+mdb-675,TransLink Bowen,AU,insufficient fixed-route bus service
+mdb-679,Translink Magnetic Island Ferry,AU,insufficient fixed-route bus service
+mdb-690,BC Ferries,CA,insufficient fixed-route bus service
+mdb-710,BC Transit (Dawson Creek Transit System),CA,insufficient fixed-route bus service
+mdb-735,VIA Rail Canada,CA,insufficient fixed-route bus service
+mdb-739,Régie intermunicipale de transport des Collines (Transcollines),CA,insufficient fixed-route bus service
+mdb-74,Capitol Corridor Joint Powers Authority (Capitol Corridor),US,insufficient fixed-route bus service
+mdb-748,Exo,CA,insufficient fixed-route bus service
+mdb-768,Long-distance rail transport in Germany,DE,insufficient fixed-route bus service
+mdb-778,Verkehrsverbund Rhein-Sieg (VRS),DE,no usable service date
+mdb-788,Metropolitano de Tenerife (Metrotenerife),ES,insufficient fixed-route bus service
+mdb-790,Renfe,ES,no usable service date
+mdb-799,Playa Vista Shuttle,US,no usable service date
+mdb-800,Oregon Department of Transportation,US,insufficient fixed-route bus service
+mdb-801,Prairie Express Transit,US,insufficient fixed-route bus service
+mdb-802,Qline Detroit,US,insufficient fixed-route bus service
+mdb-804,Rensselaer County (Yankee Trails),US,insufficient fixed-route bus service
+mdb-805,RoadrunnerTransit,US,insufficient fixed-route bus service
+mdb-81,Rio Vista Delta Breeze,US,insufficient fixed-route bus service
+mdb-810,San Leandro Links,US,insufficient fixed-route bus service
+mdb-814,Schuyler County Transit,US,insufficient fixed-route bus service
+mdb-816,Snoqualmie Valley Transportation,US,insufficient fixed-route bus service
+mdb-822,ruralTRANSIT,US,insufficient fixed-route bus service
+mdb-823,Adirondack Trailways ADP,US,insufficient fixed-route bus service
+mdb-824,Adirondack Trailways NYP,US,insufficient fixed-route bus service
+mdb-825,New York Trailways,US,insufficient fixed-route bus service
+mdb-826,Adirondack Trailways Pine Hill Trailways,US,insufficient fixed-route bus service
+mdb-827,Teller Senior Coalition Transit (TSC Transit),US,insufficient fixed-route bus service
+mdb-828,Pony Express,US,insufficient fixed-route bus service
+mdb-83,GrapeLine,US,insufficient fixed-route bus service
+mdb-830,Metro Ride,US,insufficient fixed-route bus service
+mdb-831,Water Avenue Shuttle,US,insufficient fixed-route bus service
+mdb-833,Wheatland Ferry,US,insufficient fixed-route bus service
+mdb-834,Buena Vista Ferry,US,insufficient fixed-route bus service
+mdb-85,Fresno County Rural Transit Agency (FCRTA),US,insufficient fixed-route bus service
+mdb-850,Steuben Area Rides,US,insufficient fixed-route bus service
+mdb-851,Steuben County Transit,US,insufficient fixed-route bus service
+mdb-870,Village of Cooperstown Trolly System,US,insufficient fixed-route bus service
+mdb-872,Kobe Subway,JP,insufficient fixed-route bus service
+mdb-875,Yates Transit Service,US,insufficient fixed-route bus service
+mdb-879,Garden of the Gods,US,insufficient fixed-route bus service
+mdb-882,Altavista Community Transit System,US,insufficient fixed-route bus service
+mdb-884,Rīgas Satiksme,LV,insufficient fixed-route bus service
+mdb-889,Les bus des Cigales,FR,insufficient fixed-route bus service
+mdb-890,Ulysse,FR,insufficient fixed-route bus service
+mdb-891,Alilaguna,IT,insufficient fixed-route bus service
+mdb-898,Transdev — Pays de la Loire,FR,insufficient fixed-route bus service
+mdb-910,Leprechaun Lines,US,insufficient fixed-route bus service
+mdb-92,Amador Transit,US,insufficient fixed-route bus service
+mdb-921,Hyderabad Multi-Modal Transport System,IN,insufficient fixed-route bus service
+mdb-927,Sullivan County Transit,US,insufficient fixed-route bus service
+mdb-93,Calaveras Transit,US,insufficient fixed-route bus service
+mdb-931,Harney County,US,insufficient fixed-route bus service
+mdb-932,Link Lane,US,insufficient fixed-route bus service
+mdb-933,Mt. Bachelor,US,insufficient fixed-route bus service
+mdb-935,Canberra Metro Operations,AU,insufficient fixed-route bus service
+mdb-96,Metrolink,US,insufficient fixed-route bus service
+mdb-986,French Brothers Ltd,GB,insufficient fixed-route bus service
+mdb-992,Valsts SIA Autotransporta Direkcija (ATD),LV,KeyError
+ntd-10107,Milford Transit District,US,insufficient fixed-route bus service
+ntd-10159,City Express,US,insufficient fixed-route bus service
+ntd-10183,"Woods Hole Martha's Vineyard and Nantucket Steamship Authority, ",US,insufficient fixed-route bus service
+ntd-11152,Mashantucket Pequot Tribal Nation,US,insufficient fixed-route bus service
+ntd-20190,Tuckerton Seaport Ferry,US,no usable service date
+ntd-20208,Cross County Connection,US,insufficient fixed-route bus service
+ntd-20223,Cape May Lewes Ferry,US,insufficient fixed-route bus service
+ntd-20226,SeaStreak Ferries,US,insufficient fixed-route bus service
+ntd-20950,Sussex County Skylands Ride,US,insufficient fixed-route bus service
+ntd-22929,Seneca Transit System,US,insufficient fixed-route bus service
+ntd-30116,Borough of Mt. Carmel,US,insufficient fixed-route bus service
+ntd-30122,Country Roads Transit,US,insufficient fixed-route bus service
+ntd-30124,Transit Authority of Warren County,US,insufficient fixed-route bus service
+ntd-332,Okanogan County Transportation & Nutrition,US,no usable service date
+ntd-341,Selkirk-Pend Oreille Transit Authority (SMART),US,insufficient fixed-route bus service
+ntd-387,City of Bethel,US,insufficient fixed-route bus service
+ntd-40055,City of Bristol Tennessee,US,insufficient fixed-route bus service
+ntd-40080,City of Kingsport,US,insufficient fixed-route bus service
+ntd-40104,Indian River Transit,US,insufficient fixed-route bus service
+ntd-40117,Municipality of Vega Baja,US,insufficient fixed-route bus service
+ntd-40131,Davidson County Transportation Services,US,insufficient fixed-route bus service
+ntd-40137,Municipality of Bayamon,US,insufficient fixed-route bus service
+ntd-40156,Aiken Senior Life Services,US,insufficient fixed-route bus service
+ntd-40184,City of Bowling Green,US,insufficient fixed-route bus service
+ntd-40188,Virgin Island Transit (VITran),US,insufficient fixed-route bus service
+ntd-40190,Lakeway Transit,US,insufficient fixed-route bus service
+ntd-40193,"City of Hinesville, Georgia",US,insufficient fixed-route bus service
+ntd-404,Silver Express Shuttle,US,insufficient fixed-route bus service
+ntd-40920,Ride Solution,US,insufficient fixed-route bus service
+ntd-40989,Southeast Tennessee Human Resource Agency-Rural Division,US,insufficient fixed-route bus service
+ntd-40999,Sumter County Transit,US,insufficient fixed-route bus service
+ntd-41,Alaska Railroad Corporation,US,insufficient fixed-route bus service
+ntd-41032,City of Maysville,US,insufficient fixed-route bus service
+ntd-41083,City of Glasgow,US,insufficient fixed-route bus service
+ntd-41170,Baker Council on Aging,US,insufficient fixed-route bus service
+ntd-44929,LauderGO! Water Trolley,US,insufficient fixed-route bus service
+ntd-44938,DeSoto Arcadia Regional Transit,US,insufficient fixed-route bus service
+ntd-50276,Ride Solution/WATS,US,insufficient fixed-route bus service
+ntd-50281,Cass Area Transit,US,insufficient fixed-route bus service
+ntd-50282,Kalkaska Public Transit Authority,US,insufficient fixed-route bus service
+ntd-50347,Blue River Services,US,insufficient fixed-route bus service
+ntd-50386,City of Houghton,US,insufficient fixed-route bus service
+ntd-60058,St. Bernard Parish,US,insufficient fixed-route bus service
+ntd-60089,City of Tyler,US,EmptyDataError
+ntd-60095,Golden Crescent Regional Planning Commission,US,insufficient fixed-route bus service
+ntd-60097,Midland-Odessa Urban Transit District,US,ParserError
+ntd-60103,"Fort Bend County, Texas",US,insufficient fixed-route bus service
+ntd-60113,City of Cleburne,US,insufficient fixed-route bus service
+ntd-60133,McKinney Avenue Transit Authority,US,insufficient fixed-route bus service
+ntd-60151,Grant County,US,insufficient fixed-route bus service
+ntd-60167,Roswell Transit,US,insufficient fixed-route bus service
+ntd-60190,City of Hobbs,US,insufficient fixed-route bus service
+ntd-60196,Tangipahoa Voluntary Council on Aging,US,insufficient fixed-route bus service
+ntd-60214,First Capital Trolley,US,insufficient fixed-route bus service
+ntd-60274,South Texas College,US,insufficient fixed-route bus service
+ntd-66242,A:Shiwi Transit,US,insufficient fixed-route bus service
+ntd-70016,Get Around Columbia (GoCOMO),US,insufficient fixed-route bus service
+ntd-70060,Developmental Services of NW Kansas/ACCESS Transportation,US,insufficient fixed-route bus service
+ntd-70162,City of Excelsior Springs,US,insufficient fixed-route bus service
+ntd-70248,Lyon County Area Transportation,US,insufficient fixed-route bus service
+ntd-77086,New Bourbon Regional Port Authority,US,insufficient fixed-route bus service
+ntd-80121,Wind River Transportation Authority,US,insufficient fixed-route bus service
+ntd-80280,Archuleta County,US,insufficient fixed-route bus service
+ntd-88200,Ute Tribe Public Transit,US,insufficient fixed-route bus service
+ntd-88293,Park County Transit,US,insufficient fixed-route bus service
+ntd-90258,Carson Transportation Services,US,insufficient fixed-route bus service
+ntd-99419,Yavapai Regional Transit,US,insufficient fixed-route bus service
+ntd-99436,Gila River Transit,US,insufficient fixed-route bus service
+tdg-10230,Zenbus,FR,insufficient fixed-route bus service
+tdg-11492,DECAZEVILLE COMMUNAUTE,FR,insufficient fixed-route bus service
+tdg-12608,Zenbus,FR,insufficient fixed-route bus service
+tdg-14652,Zenbus,FR,no usable service date
+tdg-38881,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-39593,Métropole d'Aix-Marseille-Provence,FR,insufficient fixed-route bus service
+tdg-39594,Métropole d'Aix-Marseille-Provence,FR,insufficient fixed-route bus service
+tdg-40287,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-79537,Transdev • Pays de la Loire,FR,insufficient fixed-route bus service
+tdg-79576,Transdev • Centre-Val de Loire,FR,insufficient fixed-route bus service
+tdg-79810,Oùra,FR,insufficient fixed-route bus service
+tdg-79814,Communauté de Communes de l'Ouest Vosgien,FR,insufficient fixed-route bus service
+tdg-79864,Oùra,FR,insufficient fixed-route bus service
+tdg-79992,Zenbus,FR,insufficient fixed-route bus service
+tdg-80403,Fluo Grand Est,FR,insufficient fixed-route bus service
+tdg-80471,Fluo Grand Est,FR,insufficient fixed-route bus service
+tdg-80964,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-81068,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,FR,insufficient fixed-route bus service
+tdg-81244,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-81245,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-81413,Orléans Métropole,FR,insufficient fixed-route bus service
+tdg-81474,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-81480,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-81481,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-81539,LOIRE FOREZ AGGLOMERATION,FR,insufficient fixed-route bus service
+tdg-81555,Nouvelle-Aquitaine Mobilités,FR,insufficient fixed-route bus service
+tdg-81557,Nouvelle-Aquitaine Mobilités,FR,insufficient fixed-route bus service
+tdg-81618,Syndicat Mixte des Mobilités de l'Aire Grenobloise,FR,insufficient fixed-route bus service
+tdg-81643,Agglo Pays d'Issoire,FR,insufficient fixed-route bus service
+tdg-81653,TRENITALIA FRANCE,IT,insufficient fixed-route bus service
+tdg-81773,Communauté de Communes du Golfe de Saint-Tropez,FR,insufficient fixed-route bus service
+tdg-81833,Région Hauts-de-France,FR,no usable service date
+tdg-81858,Communauté de Communes du Golfe de Saint-Tropez,FR,insufficient fixed-route bus service
+tdg-81866,Communauté de Communes du Golfe de Saint-Tropez,FR,insufficient fixed-route bus service
+tdg-81867,Communauté de Communes du Golfe de Saint-Tropez,FR,insufficient fixed-route bus service
+tdg-81996,Corsica Ferries,FR,insufficient fixed-route bus service
+tdg-82097,Pays de Saint Gilles Croix de Vie Agglomération,FR,insufficient fixed-route bus service
+tdg-82150,Communauté de Communes Chinon Vienne et Loire,FR,insufficient fixed-route bus service
+tdg-82199,Eurostar International Ltd.,DE,insufficient fixed-route bus service
+tdg-82277,Région Hauts-de-France,FR,KeyError
+tdg-82305,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-82308,Syndicat mixte Atoumod,FR,insufficient fixed-route bus service
+tdg-82310,Syndicat mixte Atoumod,FR,insufficient fixed-route bus service
+tdg-82363,Nouvelle-Aquitaine Mobilités,FR,insufficient fixed-route bus service
+tdg-82382,Nouvelle-Aquitaine Mobilités,FR,insufficient fixed-route bus service
+tdg-82386,RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL SA,ES,no usable service date
+tdg-82388,Fluo Grand Est,FR,insufficient fixed-route bus service
+tdg-82619,Alliance Atlantique,FR,insufficient fixed-route bus service
+tdg-82729,Région Auvergne-Rhône-Alpes,FR,insufficient fixed-route bus service
+tdg-82872,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-82874,Transdev Var,FR,insufficient fixed-route bus service
+tdg-82904,CA ANNONAY RHONE AGGLO,FR,insufficient fixed-route bus service
+tdg-82907,Fluo Grand Est,FR,insufficient fixed-route bus service
+tdg-82994,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-82995,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-82998,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-83019,VITRE COMMUNAUTE,FR,missing required table
+tdg-83146,TRANSPORT PHOENIX,FR,insufficient fixed-route bus service
+tdg-83155,Communauté de Communes Pyrénées Vallées des Gaves,FR,insufficient fixed-route bus service
+tdg-83200,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-83203,Trans-Landes,FR,insufficient fixed-route bus service
+tdg-83311,Sailcoop,FR,insufficient fixed-route bus service
+tdg-83383,Grand Autunois Morvan,FR,insufficient fixed-route bus service
+tdg-83427,Brittany Ferries,FR,insufficient fixed-route bus service
+tdg-83467,Communauté de Communes du Pays des Écrins,FR,insufficient fixed-route bus service
+tdg-83510,CORSICA LINEA,DZ,insufficient fixed-route bus service
+tdg-83511,COMMUNAUTE D'AGGLOMERATION GRAND SUD CARAIBE,FR,missing required table
+tdg-83528,JVMALIN,FR,insufficient fixed-route bus service
+tdg-83531,JVMALIN,FR,insufficient fixed-route bus service
+tdg-83533,Nouvelle-Aquitaine Mobilités,FR,insufficient fixed-route bus service
+tdg-83620,Région Hauts-de-France,FR,insufficient fixed-route bus service
+tdg-83728,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-83729,Région Bretagne,FR,insufficient fixed-route bus service
+tdg-83744,COMMUNE DE COURCHEVEL,FR,insufficient fixed-route bus service
+tdg-83775,Intercom Bernay Terres de Normandie,FR,insufficient fixed-route bus service
+tdg-83787,Transdev Savoie,FR,insufficient fixed-route bus service
+tdg-83820,Syndicat intercommunal des Transports Urbains Soissonnais,FR,missing required table
+tdg-83846,Intercom de la Vire au Noireau,FR,insufficient fixed-route bus service
+tdg-83848,Communauté de Communes Haute-Tarentaise,FR,insufficient fixed-route bus service
+tdg-83859,Communauté de Communes Cœur de Loire,FR,insufficient fixed-route bus service
+tdg-83882,Collectivité de Corse,FR,insufficient fixed-route bus service
+tdg-83969,Challans Gois Communauté,FR,insufficient fixed-route bus service
+tdg-83981,Syndicat mixte Atoumod,FR,insufficient fixed-route bus service
+tdg-83989,Commune Les Deux Alpes,FR,insufficient fixed-route bus service
+tdg-83994,"Loopi, Mobilité Touristique",FR,insufficient fixed-route bus service
+tdg-84018,Angers Loire Métropole,FR,no usable service date
+tdg-84024,Département de Loire-Atlantique,FR,insufficient fixed-route bus service
+tdg-84043,UNION DES BATELIERS ARCACHONNAIS,FR,insufficient fixed-route bus service
+tdg-84068,Régie de transport Communauté de communes Spelunca-Liamone,FR,insufficient fixed-route bus service
+tdg-84073,Région Bourgogne-Franche-Comté,FR,missing required table
+tdg-84075,Région Bourgogne-Franche-Comté,FR,missing required table
+tdg-84096,Ecov,FR,insufficient fixed-route bus service
+tfs-111,Coach Bus Lines GTFS,US,insufficient fixed-route bus service
+tfs-13,Magnetic Island GTFS,AU,insufficient fixed-route bus service
+tfs-459,Corvallis Transit System GTFS,US,insufficient fixed-route bus service
+tfs-484,Swan Island Evening Shuttle GTFS,US,insufficient fixed-route bus service
+tfs-525,AVT GTFS,IT,insufficient fixed-route bus service
+tfs-550,Citrus County Transit GTFS,US,insufficient fixed-route bus service
+tfs-619,Rocky Mountain National Park Shuttles GTFS,US,insufficient fixed-route bus service
+tfs-634,MACS Transit GTFS,US,insufficient fixed-route bus service
+tfs-664,SFM (Railway) GTFS,IT,insufficient fixed-route bus service
+tfs-669,CCC Xpress GTFS,US,insufficient fixed-route bus service
+tfs-678,Skamania County Public Transit GTFS,US,insufficient fixed-route bus service
+tfs-683,BJCTA MAX GTFS,US,insufficient fixed-route bus service
+tfs-697,FVX GTFS,CA,insufficient fixed-route bus service
+tfs-721,Metro Warszawskie GTFS,PL,insufficient fixed-route bus service
+tfs-758,Washington Park Shuttle GTFS,US,insufficient fixed-route bus service
+tfs-767,Quail Trail Public Transit GTFS,US,insufficient fixed-route bus service
+tfs-781,StarTran GTFS,US,insufficient fixed-route bus service
+tfs-800,The Victoria Clipper GTFS,US,insufficient fixed-route bus service
+tfs-9,Gympie GTFS,AU,insufficient fixed-route bus service
+tld-1031,Kochi Metro,IN,insufficient fixed-route bus service
+tld-1200,Rochester-Genesee Regional Transportation Authority,US,insufficient fixed-route bus service
+tld-1201,Rochester-Genesee Regional Transportation Authority,US,insufficient fixed-route bus service
+tld-2289,Pierce County Ferries,US,insufficient fixed-route bus service
+tld-2290,Seattle Center Monorail,US,insufficient fixed-route bus service
+tld-351_1,Breeze Transit,US,insufficient fixed-route bus service
+tld-4130,Mountain Mobility,US,insufficient fixed-route bus service
+tld-4144,Jaunt,US,insufficient fixed-route bus service
+tld-4210,Columbia County Rider,US,insufficient fixed-route bus service
+tld-4211,Sunset Empire Transportation District,US,insufficient fixed-route bus service
+tld-4257,AUTNA SL,PT,insufficient fixed-route bus service
+tld-4310,İzdeniz,SA,insufficient fixed-route bus service
+tld-4322,Sobe e Desce - Transportes Urbanos de Tavira,PT,insufficient fixed-route bus service
+tld-4324,Empresa Municipal de Transports Urbans de Palma de Mallorca,ES,insufficient fixed-route bus service
+tld-4379,Fullington Trailways,US,insufficient fixed-route bus service
+tld-4380,Monsey Trails,US,insufficient fixed-route bus service
+tld-4454,Chapman University,US,EmptyDataError
+tld-4456,Columbia University,US,EmptyDataError
+tld-4458,Emory Hospital Midtown,US,EmptyDataError
+tld-4461,Fresno State University,US,EmptyDataError
+tld-4466,Miller Transportation,US,EmptyDataError
+tld-4535,Corduff Travel,IE,insufficient fixed-route bus service
+tld-4663,Shenango Valley Shuttle Service,US,insufficient fixed-route bus service
+tld-4667,Cerritos On Wheels,US,insufficient fixed-route bus service
+tld-4682,Orangeville Transit,CA,insufficient fixed-route bus service
+tld-4684,PC Connect Transit System,CA,insufficient fixed-route bus service
+tld-4694,Goose Creek Transit,US,insufficient fixed-route bus service
+tld-4704,Midland Penetanguishene Transit Service,CA,insufficient fixed-route bus service
+tld-4748,Temiskaming Transit,CA,insufficient fixed-route bus service
+tld-4757,Central Transportation,US,insufficient fixed-route bus service
+tld-4761,Bus Mont-Tremblant,CA,insufficient fixed-route bus service
+tld-4763,Artesia Transit,US,insufficient fixed-route bus service
+tld-4781,I-Line Shuttle,US,insufficient fixed-route bus service
+tld-4782,Maywood Express Shuttle,US,insufficient fixed-route bus service
+tld-478_1,Georgia Tech Stinger Bus,US,insufficient fixed-route bus service
+tld-4791,Citylink North (Kootenai County),US,insufficient fixed-route bus service
+tld-4792,Citylink South (Kootenai County),US,insufficient fixed-route bus service
+tld-4798,"Eureka Transit Service, Blue Lake Rancheria Transit System, Samoa Transit System, Redwood Transit System, Arcata & Mad River Transit System",US,KeyError
+tld-4817,Ontario Northland,CA,insufficient fixed-route bus service
+tld-5509_1,Prince Albert Transit,CA,no usable service date
+tld-5577,Westlink Coaches,IE,insufficient fixed-route bus service
+tld-5722,L'Inter des Laurentides,CA,insufficient fixed-route bus service
+tld-5727,The LINK,US,insufficient fixed-route bus service
+tld-5732,Governor's Island Ferry,US,insufficient fixed-route bus service
+tld-5739,Liberty Landing Ferry,US,insufficient fixed-route bus service
+tld-5746,Parachute Area Transit System,US,insufficient fixed-route bus service
+tld-5749,Rainbow Rider,US,insufficient fixed-route bus service
+tld-5751,Rural Resources Community Action,US,insufficient fixed-route bus service
+tld-5754,Snow Goose Transit,US,insufficient fixed-route bus service
+tld-5755,Solid Ground,US,insufficient fixed-route bus service
+tld-5756,Special Mobility Services,US,insufficient fixed-route bus service
+tld-5759,Tri-City Roadrunner,US,insufficient fixed-route bus service
+tld-5760,Tulalip Transit,US,insufficient fixed-route bus service
+tld-5761,Community Transit,US,insufficient fixed-route bus service
+tld-5787,City Of Glen Cove,US,insufficient fixed-route bus service
+tld-5790,Monroe Bus Lines,US,insufficient fixed-route bus service
+tld-5791,Connect Niagara,US,insufficient fixed-route bus service
+tld-5869,MRC de Montcalm,CA,insufficient fixed-route bus service
+tld-5874,Ride Norfolk,CA,insufficient fixed-route bus service
+tld-5877,Schoharie County Transit,US,insufficient fixed-route bus service
+tld-5889,(Phnom Penh City Bus) រថយន្ត​ក្រុង​សាធារណៈ ,KH,insufficient fixed-route bus service
+tld-5899,Lakeland Area Mass Transit District,US,insufficient fixed-route bus service
+tld-601,McGrath Coaches,IE,insufficient fixed-route bus service
+tld-61,Virginia Railway Express,US,insufficient fixed-route bus service
+tld-623,John Kearns,IE,insufficient fixed-route bus service
+tld-635,Dublin Bus Nitelink,IE,no usable service date
+tld-6678,Harpers Ferry National Historical Park,US,insufficient fixed-route bus service
+tld-6681,Yosemite National Park,US,insufficient fixed-route bus service
+tld-6682,Zion National Park,US,insufficient fixed-route bus service
+tld-6690_1,Bili,CA,insufficient fixed-route bus service
+tld-6691,Réseau express métropolitain,CA,insufficient fixed-route bus service
+tld-6692,MRC du Haut-Saint-Laurent,CA,insufficient fixed-route bus service
+tld-6708,Open Plains Transit,US,insufficient fixed-route bus service
+tld-6719,Havasu Landing Resort & Casino Ferry,US,insufficient fixed-route bus service
+tld-6724,City of Irvine,US,insufficient fixed-route bus service
+tld-6735,City of Jacksonville,US,insufficient fixed-route bus service
+tld-6741,My Ride Rock Hill,US,insufficient fixed-route bus service
+tld-6743,Maricopa Express Transit,US,insufficient fixed-route bus service
+tld-6745,"Propark Mobility, Columbia County Public Transportation",US,insufficient fixed-route bus service
+tld-6747,Oswego County Public Transit,US,insufficient fixed-route bus service
+tld-6748,Niagara Frontier Transportation Authority,US,insufficient fixed-route bus service
+tld-6755,Denman Island Bus Service,CA,insufficient fixed-route bus service
+tld-6756,Gabriola Community Shuttle,CA,insufficient fixed-route bus service
+tld-6757,Hornby Island Bus,CA,insufficient fixed-route bus service
+tld-6758,Keretapi Tanah Melayu Berhad,MY,insufficient fixed-route bus service
+tld-679,City of Sierra Vista,US,insufficient fixed-route bus service
+tld-688,Jump Around Carson,US,insufficient fixed-route bus service
+tld-6897,West Coast Trail Express,CA,insufficient fixed-route bus service
+tld-6902,Bandalier National Monument,US,insufficient fixed-route bus service
+tld-6905,Fort Matanzas National Monument,US,insufficient fixed-route bus service
+tld-6906,Fort Sumter and Fort Moultrie National Historical Park,US,insufficient fixed-route bus service
+tld-6909,Statue of Liberty National Monument,US,insufficient fixed-route bus service
+tld-6956,GEST S.p.A.,IT,insufficient fixed-route bus service
+tld-6958,Autolinee Toscane - Servizi Sostitutivi Ferro,IT,insufficient fixed-route bus service
+tld-6960,Autolinee Toscane - Debole Extraurbano CEV,IT,insufficient fixed-route bus service
+tld-6980,Autolinee Toscane - Urbano Follonica,IT,insufficient fixed-route bus service
+tld-6981,Autolinee Toscane - Emg Urbano Volterra,IT,insufficient fixed-route bus service
+tld-6982,Autolinee Toscane - Urbano Certaldo,IT,insufficient fixed-route bus service
+tld-6999,Autolinee Toscane - Urbano Montecatini Terme,IT,insufficient fixed-route bus service
+tld-7002,Autolinee Toscane - Emg Extraurbano Sansepolcro,IT,insufficient fixed-route bus service
+tld-7003,Autolinee Toscane - Emg Extraurbano Subbiano,IT,insufficient fixed-route bus service
+tld-7007,Autolinee Toscane - Emg Extraurbano Civitella in Val di Chiana,IT,no usable service date
+tld-7008,Autolinee Toscane - Emg Extraurbano Cortona,IT,insufficient fixed-route bus service
+tld-7011,Autolinee Toscane - Urbano Chiusi,IT,insufficient fixed-route bus service
+tld-7012,Autolinee Toscane - Urbano Chianciano Terme,IT,insufficient fixed-route bus service
+tld-7013,Autolinee Toscane - Urbano Montepulciano,IT,insufficient fixed-route bus service
+tld-7015,Autolinee Toscane - Emg Extraurbano Monte San Savino,IT,insufficient fixed-route bus service
+tld-7016,Autolinee Toscane - Emg Extraurbano Capolona,IT,insufficient fixed-route bus service
+tld-7017,Autolinee Toscane - AT Non Scolastico,IT,insufficient fixed-route bus service
+tld-7034,Seldovia Bay Ferry,US,insufficient fixed-route bus service
+tld-7039,Lorain County Transit,US,insufficient fixed-route bus service
+tld-7041,Rochester-Genesee Regional Transportation Authority,US,insufficient fixed-route bus service
+tld-7042,Rochester-Genesee Regional Transportation Authority,US,insufficient fixed-route bus service
+tld-7043,Rochester-Genesee Regional Transportation Authority,US,insufficient fixed-route bus service
+tld-7068_1,West Virginia University Morgantown Personal Rapid Transit,US,insufficient fixed-route bus service
+tld-715,Fertagus,PT,insufficient fixed-route bus service
+tld-716,Metro de Lisboa (Metro),PT,insufficient fixed-route bus service
+tld-752,Public Transport Victoria,AU,missing required table
+tld-768_1,Red Metropolitana de Movilidad,CL,missing required table
+tld-7825,RMTEJO II - Transportes Rodoviários de Passageiros,PT,insufficient fixed-route bus service
+tld-7850,Potomac Valley Transit Authority,US,insufficient fixed-route bus service
+tld-7866,Town of Cranberry Isles Commuter Ferry,US,insufficient fixed-route bus service
+tld-7870,West's Bus Service,US,insufficient fixed-route bus service
+tld-7871,Western Maine Transportation Services,US,insufficient fixed-route bus service
+tld-7876,RDL RODOVIÁRIA DO LIS II,PT,insufficient fixed-route bus service
+tld-7877,RDL RODOVIÁRIA DO LIS,PT,insufficient fixed-route bus service
+tld-7891,Scania Transport Services,SE,insufficient fixed-route bus service
+tld-7914,Hendry County Transit System,US,insufficient fixed-route bus service
+tld-7915,Capital Area Rural Transportation,US,insufficient fixed-route bus service
+tld-7921,Hinton Transit,CA,insufficient fixed-route bus service
+tld-7925,Chatham Area Transit,US,insufficient fixed-route bus service
+tld-7929,Fond du Lac Area Transit,US,insufficient fixed-route bus service
+tld-7930,Mission Viejo,US,insufficient fixed-route bus service
+tld-7941,OSU-Stillwater Community Transit,US,insufficient fixed-route bus service
+tld-821,The Victoria Clipper,CA,insufficient fixed-route bus service
+tld-857,Régie de transport en commun de Shawinigan,CA,insufficient fixed-route bus service
+tld-942,LakeXpress,US,insufficient fixed-route bus service
